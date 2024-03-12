@@ -1,0 +1,2512 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="zh-CN"><seg>政府工作报告</seg></tuv>
+<tuv xml:lang="en-US"><seg>REPORT ON THE WORK OF THE GOVERNMENT</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>——2015年3月5日在第十二届全国人民代表大会第三次会议上</seg></tuv>
+<tuv xml:lang="en-US"><seg>Delivered at the Third Session of the 12th National People’s Congress on March 5, 2015</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>国务院总理 李克强</seg></tuv>
+<tuv xml:lang="en-US"><seg>Li Keqiang, Premier of the State Council</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>各位代表：现在，我代表国务院，向大会报告政府工作，请予审议，并请全国政协各位委员提出意见。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Fellow Deputies, on behalf of the State Council, I will now report to you on the work of the government for your deliberation and approval, and I invite comments on my report from the members of the National Committee of the Chinese People's Political Consultative Conference (CPPCC).</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>一、2014年工作回顾</seg></tuv>
+<tuv xml:lang="en-US"><seg>I. A Review of the Work in 2014</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>过去一年，我国发展面临的国际国内环境复杂严峻。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Over the past year, the international and domestic environments faced by China in its development have been complicated and challenging. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>全球经济复苏艰难曲折，主要经济体走势分化。</seg></tuv>
+<tuv xml:lang="en-US"><seg>The road to global economic recovery has been rough, with many ups and downs, and the performance of the major economies has been divergent. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>国内经济下行压力持续加大，多重困难和挑战相互交织。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Downward pressure on China's economy has continued to mount, and we have faced an array of interwoven difficulties and challenges.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>在以习近平同志为总书记的党中央坚强领导下，全国各族人民万众一心，克难攻坚，完成了全年经济社会发展主要目标任务，全面深化改革实现良好开局，全面推进依法治国开启新征程，全面建成小康社会又迈出坚实步伐。</seg></tuv>
+<tuv xml:lang="en-US"><seg>However, under the firm leadership of the Central Committee of the Communist Party of China (CPC) headed by General Secretary Xi Jinping, all our people have worked together as one, surmounted difficulties, and accomplished the year's main targets for economic and social development, thereby ensuring that we got off to a good start in comprehensively deepening reform, embarked on a new journey to fully advance the law-based governance of China, and again made solid progress in our endeavor to finish building a moderately prosperous society in all respects.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>一年来，我国经济社会发展总体平稳，稳中有进。</seg></tuv>
+<tuv xml:lang="en-US"><seg>During the past year, China has, overall, achieved a stable performance while at the same time securing progress in its economic and social development. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>“稳”的主要标志是，经济运行处于合理区间。</seg></tuv>
+<tuv xml:lang="en-US"><seg>The main indication of this stable performance is that the economy operated within an appropriate range.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>增速稳，国内生产总值达到63.6万亿元，比上年增长7.4%，在世界主要经济体中名列前茅。</seg></tuv>
+<tuv xml:lang="en-US"><seg>--The growth rate was steady. China's GDP reached 63.6 trillion yuan, an increase of 7.4% over the previous year, making China one of the fastest-growing major economies in the world.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>就业稳，城镇新增就业1322万人，高于上年。</seg></tuv>
+<tuv xml:lang="en-US"><seg>--Employment remained robust, with 13.22 million new urban jobs created, which is higher than the figure for the previous year.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>价格稳，居民消费价格上涨2%。</seg></tuv>
+<tuv xml:lang="en-US"><seg>--Prices were stable, with the CPI rising by 2%. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>“进”的总体特征是，发展的协调性和可持续性增强。</seg></tuv>
+<tuv xml:lang="en-US"><seg>The underlying feature demonstrating progress is that our development is becoming better coordinated and more sustainable.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>经济结构有新的优化，粮食产量达到1.21万亿斤，消费对经济增长的贡献率上升3个百分点，达到51.2%，服务业增加值比重由46.9%提高到48.2%，新产业、新业态、新商业模式不断涌现。</seg></tuv>
+<tuv xml:lang="en-US"><seg>--The economic structure was upgraded. Grain output reached 605 million metric tons; the contribution of consumption toward economic growth rose by three percentage points to 51.2%; the value added of the service sector increased from 46.9% to 48.2% of the GDP; and there was a constant stream of new industries, new types of business, and new business models. The central and western regions grew faster in economic terms than the eastern region.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>中西部地区经济增速快于东部地区。发展质量有新的提升，一般公共预算收入增长8.6%，研究与试验发展经费支出与国内生产总值之比超过2%，能耗强度下降4.8%，是近年来最大降幅。</seg></tuv>
+<tuv xml:lang="en-US"><seg>--The quality of development was raised. Revenue in the general public budgets grew by 8.6%. Research and development spending accounted for more than 2% of the GDP. Energy intensity was cut by 4.8%, the biggest reduction made in recent years.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>人民生活有新的改善，全国居民人均可支配收入实际增长8%，快于经济增长；农村居民人均可支配收入实际增长9.2%，快于城镇居民收入增长；农村贫困人口减少1232万人；6600多万农村人口饮水安全问题得到解决；出境旅游超过1亿人次。</seg></tuv>
+<tuv xml:lang="en-US"><seg>--People's lives were improved. Per capita disposable personal income increased by 8% in real terms nationwide, growing faster than the economy, and the per capita disposable income of rural residents grew by 9.2%, outpacing that of those living in urban areas. In rural areas, the number of people living in poverty was reduced by 12.32 million, and over 66 million more people gained access to safe drinking water. The number of outbound trips made by Chinese tourists exceeded 100 million.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>改革开放有新的突破，全面深化改革系列重点任务启动实施，本届政府减少1/3行政审批事项的目标提前实现。</seg></tuv>
+<tuv xml:lang="en-US"><seg>--New breakthroughs were made in reform and opening up. A series of key tasks for comprehensively deepening reform were launched, and the goal of the current administration to cut the number of items that require government review by one third was achieved ahead of schedule.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>这份成绩单的确来之不易，它凝聚着全国各族人民的心血和汗水，坚定了我们奋勇前行的决心和信心。</seg></tuv>
+<tuv xml:lang="en-US"><seg>These achievements have not come easily. They have been made possible by the painstaking efforts and hard work of all our people, and they have strengthened our resolve and confidence to keep pushing ahead.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>过去一年，困难和挑战比预想的大。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Over the past year, we have faced more difficulties and challenges than anticipated. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我们迎难而上，主要做了以下工作。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We have risen to the challenge and accomplished the following in our work.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>一是在区间调控基础上实施定向调控，保持经济稳定增长。</seg></tuv>
+<tuv xml:lang="en-US"><seg>First, on the basis of range-based macro regulation, we exercised targeted regulation to keep the economy growing steadily.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>面对经济下行压力加大态势，我们保持战略定力，稳定宏观经济政策，没有采取短期强刺激措施，而是继续创新宏观调控思路和方式，</seg></tuv>
+<tuv xml:lang="en-US"><seg>In the face of mounting downward economic pressure, we maintained strategic focus and kept our macroeconomic policy unchanged. Instead of using short-term stimulus measures, we continued to develop new ideas and methods for macro regulation. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>实行定向调控，激活力、补短板、强实体。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We exercised targeted regulation, stimulated market activity, shored up our weak spots, and boosted the real economy. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>把握经济运行合理区间的上下限，抓住发展中的突出矛盾和结构性问题，定向施策，聚焦靶心，精准发力。</seg></tuv>
+<tuv xml:lang="en-US"><seg>With a keen understanding of the appropriate range within which the economy needs to be operating, we adopted targeted steps to address the serious issues and structural problems hindering development. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>向促改革要动力，向调结构要助力，向惠民生要潜力，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We promoted reform to gain impetus for development, made structural adjustments to produce support for development, and improved living standards to increase the potential for development.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>既扩大市场需求，又增加有效供给，努力做到结构调优而不失速。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We both expanded market demand and increased effective supply, working to ensure that structural adjustments were made without compromising the growth rate.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>有效实施积极的财政政策和稳健的货币政策。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We have been effectively implementing proactive fiscal policy and prudent monetary policy. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>实行定向减税和普遍性降费，拓宽小微企业税收优惠政策范围，扩大“营改增”试点。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We increased targeted tax reductions, reduced fees across the board, extended the coverage of tax relief policies to benefit more small and micro businesses, and expanded the trials to replace business tax with VAT to cover more industries.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加快财政支出进度，积极盘活存量资金。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We sped up the process of making budgetary funds available for fiscal expenditures and put surplus budgetary funds to good use. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>灵活运用货币政策工具，采取定向降准、定向再贷款、非对称降息等措施，加大对经济社会发展薄弱环节的支持力度，</seg></tuv>
+<tuv xml:lang="en-US"><seg>By flexibly utilizing monetary policy instruments, making targeted cuts to required reserve ratios, carrying out targeted re-lending, and making asymmetric interest rate cuts, we stepped up support for weaker areas in economic and social development.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>小微企业、“三农”贷款增速比各项贷款平均增速分别高4.2和0.7个百分点。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Increases in loans made to small and micro businesses, and loans for agriculture, rural areas, and farmers, outdid the average increase in loans overall by 4.2 and 0.7 percentage points respectively. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>同时，完善金融监管，坚决守住不发生区域性系统性风险的底线。</seg></tuv>
+<tuv xml:lang="en-US"><seg>At the same time, regulation of the financial sector was improved and regional and systemic risks were forestalled.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>二是深化改革开放，激发经济社会发展活力。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Second, we deepened reform and opening up and invigorated economic and social development.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>针对束缚发展的体制机制障碍，我们通过全面深化改革，以释放市场活力对冲经济下行压力，</seg></tuv>
+<tuv xml:lang="en-US"><seg>To address obstructions holding back development caused by certain systems and mechanisms, we comprehensively deepened reform, invigorating the market to offset downward economic pressure.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>啃了不少硬骨头，经济、政治、文化、社会、生态文明等体制改革全面推进。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We tackled many tough issues and carried out structural reforms in the economic, political, cultural, societal, and ecological sectors.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>扎实推动重点改革。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We have made solid progress in key reforms. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>制定并实施深化财税体制改革总体方案，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We formulated and implemented a coordinated plan for deepening the reform of the fiscal and tax systems. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>预算管理制度和税制改革取得重要进展，</seg></tuv>
+<tuv xml:lang="en-US"><seg>Important progress was made in the reform of the budgetary management and tax systems. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>专项转移支付项目比上年减少1/3以上，一般性转移支付比重增加，</seg></tuv>
+<tuv xml:lang="en-US"><seg>The number of items receiving special transfer payments was over one third less than that of the previous year, and the proportion of transfer payments for general purposes was increased.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>地方政府性债务管理得到加强。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Management of local government debt was strengthened. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>存款利率和汇率浮动区间扩大，</seg></tuv>
+<tuv xml:lang="en-US"><seg>The floating ranges of interest rates on deposits and exchange rates were expanded.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>民营银行试点迈出新步伐，</seg></tuv>
+<tuv xml:lang="en-US"><seg>New steps were taken in the trials to establish private banks. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>“沪港通”试点启动，</seg></tuv>
+<tuv xml:lang="en-US"><seg>The Shanghai-Hong Kong Stock Connect was launched on a trial basis. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>外汇储备、保险资金运用范围拓展。</seg></tuv>
+<tuv xml:lang="en-US"><seg>The scope for using foreign exchange reserves and insurance funds was broadened. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>能源、交通、环保、通信等领域价格改革加快。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Price reforms in energy, transport, environmental protection, and communications were accelerated. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>启动科技资金管理、考试招生、户籍、机关事业单位养老保险制度等改革。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We launched reforms to the system for managing research and development funding, the school examination and enrollment systems, the household registration system, and the pension system for employees of Party and government offices and public institutions.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>继续把简政放权、放管结合作为改革的重头戏。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We have continued to give the central stage in reform to streamlining administration and delegating more powers to lower-level governments and to society in general while improving regulation. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>国务院各部门全年取消和下放246项行政审批事项，</seg></tuv>
+<tuv xml:lang="en-US"><seg>Over the course of the year, departments under the State Council cancelled the requirement of or delegated the power for review on 246 items.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>取消评比达标表彰项目29项、职业资格许可和认定事项149 项，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We cancelled 29 performance evaluations, inspections on the meeting of standards, and commendations, and 149 verifications and approvals of vocational qualifications. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>再次修订投资项目核准目录，大幅缩减核准范围。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We again revised and significantly shortened the list of investment projects requiring government review. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>着力改革商事制度，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We channeled great effort into the reform of the business system.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>新登记注册市场主体达到1293万户，其中新登记注册企业增长45.9%，形成新的创业热潮。</seg></tuv>
+<tuv xml:lang="en-US"><seg>The number of newly registered market entities reached 12.93 million, with that of enterprises increasing by 45.9%, creating a fresh surge of entrepreneurial activity. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>经济增速放缓，新增就业不降反增，显示了改革的巨大威力和市场的无限潜力。</seg></tuv>
+<tuv xml:lang="en-US"><seg>While economic growth slowed down,more jobs were created, which fully demonstrates both the tremendous power of reform and the endless potential of the market.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>以开放促改革促发展。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We drew on further opening up to boost reform and development. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>扩展上海自由贸易试验区范围，新设广东、天津、福建自由贸易试验区。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We expanded the China (Shanghai) Pilot Free Trade Zone and established similar zones in Guangdong, Tianjin, and Fujian. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>稳定出口，增加进口，出口占国际市场份额继续提升。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We worked to keep exports stable and increase imports, and China's international market share in exports continued to increase. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>实际使用外商直接投资1196亿美元，居世界首位。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Foreign direct investment actually made in China reached $119.6 billion, making the country the world's top destination for foreign direct investment. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>对外直接投资1029亿美元，与利用外资并驾齐驱。</seg></tuv>
+<tuv xml:lang="en-US"><seg>China's outward foreign direct investment reached $102.9 billion, meaning that outward investment has come to draw even with inward investment. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>中国与冰岛、瑞士自贸区启动实施，中韩、中澳自贸区完成实质性谈判。</seg></tuv>
+<tuv xml:lang="en-US"><seg>China's free trade zone arrangements with Iceland and Switzerland were officially launched, and China completed substantive talks on free trade zones with the Republic of Korea and Australia. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>铁路、电力、油气、通信等领域对外合作取得重要成果，</seg></tuv>
+<tuv xml:lang="en-US"><seg>Major progress was made in cooperation with other countries in fields such as railways, electric power, oil, natural gas, and communications. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>中国装备正大步走向世界。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Chinese equipment is making significant strides into the international market.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>三是加大结构调整力度，增强发展后劲。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Third, we stepped up structural adjustments to make China's development more sustainable.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>在结构性矛盾突出的情况下，我们积极作为，有扶有控，多办当前急需又利长远的事，夯实经济社会发展根基。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We took proactive steps to address prominent structural problems and supported the development of certain areas while containing the development of others, focusing on urgently needed initiatives that promise long-term benefits. Our goal herein has been to lay a firm foundation for economic and social development.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>不断巩固农业基础。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Work was done to strengthen the foundations of agriculture. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加大强农惠农富农政策力度，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We increased policy support to strengthen agriculture, benefit farmers, and raise rural living standards.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>实现粮食产量“十一连增”、农民收入“五连快”。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Grain output increased for the 11th consecutive year, and the income of rural residents grew faster than that of urban residents for the fifth year running. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>农业综合生产能力稳步提高，</seg></tuv>
+<tuv xml:lang="en-US"><seg>Overall agricultural production capacity was steadily improved. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>农业科技和机械化水平持续提升，</seg></tuv>
+<tuv xml:lang="en-US"><seg>Agricultural science and technology continued to be strengthened, and agriculture was further mechanized. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>重大水利工程建设进度加快，</seg></tuv>
+<tuv xml:lang="en-US"><seg>The pace of progress in the construction of major water conservancy projects was stepped up.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>新增节水灌溉面积3345万亩，</seg></tuv>
+<tuv xml:lang="en-US"><seg>Farmland under water-saving irrigation was increased by 2.23 million hectares. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>新建改建农村公路23万公里。</seg></tuv>
+<tuv xml:lang="en-US"><seg>An additional 230,000 kilometers of roads were built or upgraded in rural areas. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>新一轮退耕还林还草启动实施。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We launched a new round of efforts to return more marginal farmland to forest or grassland. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>农村土地确权登记颁证有序进行，农业新型经营主体加快成长。</seg></tuv>
+<tuv xml:lang="en-US"><seg>The work to determine, register, and certify contracted rural land-use rights proceeded as planned, and new types of agricultural businesses registered faster growth.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>大力调整产业结构。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We channeled great energy into making adjustments in the structure of industry. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>着力培育新的增长点，促进服务业加快发展，支持发展移动互联网、集成电路、高端装备制造、新能源汽车等战略性新兴产业，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We focused on fostering new areas of growth by encouraging the service sector to develop more quickly, and supporting the development of strategic emerging industries, including the mobile Internet industry, the integrated circuits industry, high-end equipment manufacturing, and the new-energy vehicles industry. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>互联网金融异军突起，</seg></tuv>
+<tuv xml:lang="en-US"><seg>Internet-based finance rose swiftly to prominence. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>电子商务、物流快递等新业态快速成长，</seg></tuv>
+<tuv xml:lang="en-US"><seg>E-commerce, logistics, express delivery services and other emerging businesses developed rapidly. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>众多“创客”脱颖而出，文化创意产业蓬勃发展。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We have seen creators coming thick and fast, and the cultural and creative industries have been developing with great vitality.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>同时，继续化解过剩产能，</seg></tuv>
+<tuv xml:lang="en-US"><seg>At the same time, we continued to cut overcapacity. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>钢铁、水泥等15个重点行业淘汰落后产能年度任务如期完成。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Fifteen key industries including steel and cement achieved their task for the year of shutting down outdated production facilities as scheduled. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加强雾霾治理，淘汰黄标车和老旧车指标超额完成。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>We stepped up efforts to prevent and control smog and surpassed this year's targets for removing high-emission and old vehicles from the roads.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>推进基础设施建设和区域协调发展。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Progress was made in developing infrastructure and promoting coordinated development among regions. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>京津冀协同发展、长江经济带建设取得重要进展。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Significant progress was made in coordinated development for the Beijing-Tianjin-Hebei region and in building the Yangtze Economic Belt. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>新建铁路投产里程8427公里，</seg></tuv>
+<tuv xml:lang="en-US"><seg>An additional 8,427 kilometers of railway lines were put into operation.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>高速铁路运营里程达1.6万公里，占世界的60%以上。</seg></tuv>
+<tuv xml:lang="en-US"><seg>The length of high-speed railways that are up and running in China reached 16,000 kilometers, accounting for more than 60% of the world's total. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>高速公路通车里程达11.2万公里，</seg></tuv>
+<tuv xml:lang="en-US"><seg>The length of the country's expressways open to traffic grew to total 112,000 kilometers.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>水路、民航、管道建设进一步加强。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Waterways, civil aviation, and pipelines were all further developed. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>农网改造稳步进行。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Steady progress was made in upgrading rural power grids. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>宽带用户超过7.8亿户。</seg></tuv>
+<tuv xml:lang="en-US"><seg>The number of broadband Internet users exceeded 780 million. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>经过多年努力，南水北调中线一期工程正式通水，惠及沿线亿万群众。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Thanks to many years of hard work, the first phase of the middle route of the South-to-North Water Diversion Project was officially put into operation, benefiting millions of people along the route.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>实施创新驱动发展战略。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We implemented the strategy of innovation-driven development. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>着力打通科技成果转化通道，扩大中关村国家自主创新示范区试点政策实施范围，推进科技资源开放共享，科技人员创新活力不断释放。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We worked to commercialize research and development deliverables, expanded the scope of trial policies from the Zhongguancun National Innovation Demonstration Zone, and ensured that scientific and technological resources were openly shared. All this has been helping to constantly unleash the creativity of scientists and engineers. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>超级计算、探月工程、卫星应用等重大科研项目取得新突破，我国自主研制的支线客机飞上蓝天。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Breakthroughs have been made in major research projects such as supercomputing, the lunar exploration program, and satellite applications, and a regional jet developed and produced in China has been successfully put into service.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>四是织密织牢民生保障网，增进人民福祉。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Fourth, we worked on developing a tightly woven and sturdy safety net to secure and improve living standards.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我们坚持以人为本，持续增加民生投入，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We continued to put people first, sustaining increases to spending in areas that are important to improving standards of living. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>保基本、兜底线、建机制，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We have been working to build up a basic safety net, ensure there is a cushion in place for those most in need, and make relevant institutional arrangements.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>尽管财政收入增速放缓、支出压力加大，但财政用于民生的比例达到70%以上。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>Despite a slowdown in the growth of government revenue and increased pressure on expenditures, more than 70% of last year's government budget was spent on ensuring standards of living.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加强就业和社会保障。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We worked to strengthen employment and social security. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>完善就业促进政策，推出创业引领计划，高校毕业生就业稳中有升。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We improved the policies to stimulate employment and initiated the scheme to help college students and graduates to start businesses, ensuring a steady increase in the employment of college graduates. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>统一城乡居民基本养老保险制度，企业退休人员基本养老金水平又提高10%。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We unified the basic pension systems for rural residents and non-working urban residents and increased basic pension benefits for enterprise retirees by a further 10%. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>新开工保障性安居工程740万套，基本建成511万套。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Construction began on 7.4 million government-subsidized housing units, and 5.11 million such units were basically completed. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>全面建立临时救助制度，城乡低保标准分别提高9.97%和14.1%，残疾军人、烈属和老复员军人等优抚对象抚恤和生活补助标准提高20%以上。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We established a nationwide temporary-assistance system, increased subsistence allowances by 9.97% for urban residents and 14.1% for rural residents, and increased subsidies and living allowances by more than 20% for disabled military personnel, families of revolutionary martyrs, and old-age veterans.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>继续促进教育公平。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We continued to make progress in securing fair access to education. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加强贫困地区义务教育薄弱学校建设，提高家庭经济困难学生资助水平，国家助学贷款资助标准大幅上调。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We strengthened efforts to improve badly built and poorly operated schools providing compulsory education in poor areas, increased financial aid to students from poor families, and significantly increased the amount available per eligible student for national study assistance loans. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>中等职业学校免学费补助政策扩大到三年。</seg></tuv>
+<tuv xml:lang="en-US"><seg>The scheme to subsidize the waiving of tuition fees at schools providing secondary vocational education was extended to cover three years of study. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>实行义务教育免试就近入学政策，28个省份实现了农民工随迁子女在流入地参加高考。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Policies have been introduced to ensure that children can receive compulsory education at schools close to where they live without having to take entrance exams, and 28 provincial-level administrative areas began to allow children who live with their migrant worker parents to take the college entrance exam in their cities of residence. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>贫困地区农村学生上重点高校人数连续两年增长10%以上。</seg></tuv>
+<tuv xml:lang="en-US"><seg>The number of students from poor rural areas who were newly enrolled in key colleges and universities increased by more than 10% for the second year running. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>经过努力，全国财政性教育经费支出占国内生产总值比例超过4%。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Through hard work, government spending on education has come to reach over 4% of GDP.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>深入推进医药卫生改革发展。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We intensified efforts to reform and develop medical and health care. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>城乡居民大病保险试点扩大到所有省份，疾病应急救助制度基本建立，全民医保覆盖面超过95%。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Trials of serious illness insurance for rural and non-working urban residents were extended to all provincial-level administrative areas, the framework of the system for providing assistance for emergency medical treatment was established, and over 95% of the whole population was covered by medical insurance. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>基层医疗卫生机构综合改革深化，县乡村服务网络逐步完善。</seg></tuv>
+<tuv xml:lang="en-US"><seg>The comprehensive reform of community medical and healthcare centers was deepened, and the networks of medical and healthcare services for counties, townships, and villages have been steadily improved. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>公立医院改革试点县市达到1300多个。</seg></tuv>
+<tuv xml:lang="en-US"><seg>The number of counties and county-level cities carrying out trial public hospital reforms reached over 1,300.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>积极发展文化事业和文化产业。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We worked actively to develop the cultural sector. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>推动重大文化惠民项目建设，</seg></tuv>
+<tuv xml:lang="en-US"><seg>Progress was made in developing major cultural initiatives designed to benefit the public. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>广播电视“村村通”工程向“户户通”升级。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Great efforts were made to extend radio and television coverage not only to all villages but to all rural homes. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>实施文艺精品战略，完善现代文化市场体系。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Efforts were made to ensure the production of more high-quality literary and artistic works, and the modern culture market was improved. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>群众健身活动蓬勃开展，成功举办南京青奥会。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Popular fitness activities are flourishing nationwide, and the 2014 Summer Youth Olympic Games in Nanjing were a great success.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>五是创新社会治理，促进和谐稳定。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Fifth, we have been developing new forms of social governance, and promoting social harmony and stability.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我们妥善应对自然灾害和突发事件，有序化解社会矛盾，建立健全机制，强化源头防范，保障人民生命安全，维护良好的社会秩序。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We responded effectively to natural disasters and emergencies, worked to resolve social problems in a systematic way, and strengthened mechanisms to address problems at the source. These efforts have protected lives and ensured public order.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>去年云南鲁甸、景谷等地发生较强地震，我们及时高效展开抗震救灾，灾后恢复重建顺利推进。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Last year, when strong earthquakes hit in areas including Ludian and Jinggu counties in Yunnan Province, we launched timely and efficient relief efforts and made smooth progress in post-earthquake recovery and reconstruction. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>积极援非抗击埃博拉疫情，有效防控疫情输入。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We worked proactively to assist Africa in the fight against Ebola, and effectively prevented the virus from entering China. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加强安全生产工作，事故总量、重特大事故、重点行业事故持续下降。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We intensified efforts to ensure workplace safety and achieved reductions in the number of total accidents, serious and major accidents, and accidents in key industries. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>着力治理餐桌污染，食品药品安全形势总体稳定。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Serious efforts were made to prevent food contamination, and on the whole the situation was kept stable in food and medicine safety.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我们大力推进依法行政，国务院提请全国人大常委会制定修订食品安全法等法律15件，制定修订企业信息公示暂行条例等行政法规38件。</seg></tuv>
+<tuv xml:lang="en-US"><seg>In a major push to advance law-based government administration, the State Council submitted proposals to the Standing Committee of the National People's Congress (NPC) on enacting or revising 15 laws including the Food Safety Law, and formulated or revised 38 sets of administrative regulations including the Provisional Regulations on Enterprise Information Disclosure. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>政务公开深入推进，政府重大决策和政策以多种形式向社会广泛征求意见。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We took thorough steps to increase transparency in government operations, and used multiple means to widely solicit comments from the public on major government decisions and policies. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>完成第三次全国经济普查。</seg></tuv>
+<tuv xml:lang="en-US"><seg>The third national economic census was completed. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>改革信访工作制度。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We reformed the system for handling public complaints made in the form of letters or visits. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>法律援助范围从低保群体扩大到低收入群体。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Legal aid was expanded to cover not only people living on subsistence allowances but also those on low incomes. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加强城乡社区建设，行业协会商会等四类社会组织实现直接登记。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We strengthened efforts in both urban and rural community building, and made direct registration a reality for four types of social organizations, including industry associations and chambers of commerce. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>严厉打击各类犯罪活动，强化社会治安综合治理，维护了国家安全和公共安全。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We cracked down on crime, strengthened efforts in the comprehensive maintenance of law and order, and effectively safeguarded national security and public safety.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我们严格落实党中央八项规定精神，持之以恒纠正“四风”。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We have been strictly putting into practice the CPC Central Committee's eight-point decision on improving Party and government conduct and making persistent efforts to fight formalism, bureaucratism, hedonism, and extravagance. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>严格执行国务院“约法三章”，政府性楼堂馆所、机关事业单位人员编制、“三公”经费得到有效控制。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We have been rigorously implementing the State Council's three-point decision on curbing government spending, and have effectively controlled the construction of new government buildings, the staffing of government bodies and public institutions, and the spending on official overseas visits, official vehicles, and official hospitality. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加大行政监察和审计监督力度，推进党风廉政建设和反腐败斗争，</seg></tuv>
+<tuv xml:lang="en-US"><seg>Administrative supervision and auditing oversight have been intensified; efforts have been stepped up to improve Party conduct, build a clean government, and fight corruption;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>严肃查处违纪违法案件，一批腐败分子得到应有惩处。</seg></tuv>
+<tuv xml:lang="en-US"><seg>and we have investigated and prosecuted violations of the law and discipline, bringing many offenders to justice.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我们狠抓重大政策措施的落实，认真开展督查，引入第三方评估和社会评价，建立长效机制，有力促进了各项工作。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We have taken strong steps to ensure the implementation of major policies and measures, carrying out inspections, introducing third-party evaluations and public appraisals, and establishing permanent mechanisms. These efforts have gone a long way in advancing all of our work.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>一年来，外交工作成果丰硕。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Over the past year, Chinese diplomacy has been fruitful. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>习近平主席等国家领导人出访多国，出席二十国集团领导人峰会、金砖国家领导人会晤、上海合作组织峰会、东亚合作领导人系列会议、亚欧首脑会议、达沃斯论坛等重大活动。</seg></tuv>
+<tuv xml:lang="en-US"><seg>President Xi Jinping and other state leaders visited many countries and attended major international events, including the G20 Leaders Summit, the BRICS Leaders Meeting, the Shanghai Cooperation Organization Summit, the East Asian leaders' meetings on cooperation, the Asia-Europe Meeting, the Annual Meeting of the New Champions 2014 in Tianjin, and the World Economic Forum annual meeting 2015 in Davos, Switzerland. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>成功举办亚太经合组织第二十二次领导人非正式会议、亚信会议第四次峰会、博鳌亚洲论坛。</seg></tuv>
+<tuv xml:lang="en-US"><seg>China hosted the 22nd APEC Economic Leaders Meeting, the Fourth Summit of the Conference on Interaction and Confidence Building Measures in Asia, and the Boao Forum for Asia.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>积极参与多边机制建立和国际规则制定。</seg></tuv>
+<tuv xml:lang="en-US"><seg>China has been participating actively in establishing multilateral mechanisms and writing international rules. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>大国外交稳中有进，周边外交呈现新局面，同发展中国家合作取得新进展，经济外交成果显著。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We have made steady progress in developing relations with other major countries, entered a new phase in neighborhood diplomacy, and made new headway in our cooperation with other developing countries. Notable progress has been made in conducting economic diplomacy.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>推进丝绸之路经济带和21世纪海上丝绸之路建设，筹建亚洲基础设施投资银行，设立丝路基金。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Progress has been made in pursuing the Silk Road Economic Belt and 21st Century Maritime Silk Road initiatives; preparations have been made for establishing the Asian Infrastructure Investment Bank, and the Silk Road Fund has been set up.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我们与各国的交往合作越来越紧密，中国在国际舞台上负责任大国形象日益彰显。</seg></tuv>
+<tuv xml:lang="en-US"><seg>China is engaging in more exchanges and cooperation with other countries, and is increasingly recognized as a major responsible country on the international stage.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>各位代表！</seg></tuv>
+<tuv xml:lang="en-US"><seg>Fellow Deputies,</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>一年来取得的成绩，是以习近平同志为总书记的党中央统揽全局、科学决策的结果，是全党全军全国各族人民共同努力、不懈奋斗的结果。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We owe the achievements of the past year to the overall planning and sound policymaking of the Party Central Committee with Comrade Xi Jinping as General Secretary and to the concerted and unremitting efforts of all members of the Party and the armed forces, and all of China's people.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我代表国务院，向全国各族人民，向各民主党派、各人民团体和各界人士，表示诚挚感谢！</seg></tuv>
+<tuv xml:lang="en-US"><seg>On behalf of the State Council, I wish to express our sincere gratitude to the people of all our ethnic groups, and to the non-CPC parties, people's organizations, and people from all sectors of society.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>向香港特别行政区同胞、澳门特别行政区同胞、台湾同胞和海外侨胞，表示诚挚感谢！</seg></tuv>
+<tuv xml:lang="en-US"><seg>We would like to express our heartfelt appreciation to our compatriots in the Hong Kong and Macao special administrative regions and in Taiwan, and to Chinese nationals overseas. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>向关心和支持中国现代化建设事业的各国政府、国际组织和各国朋友，表示诚挚感谢！</seg></tuv>
+<tuv xml:lang="en-US"><seg>We also wish to express true gratitude to the governments, international organizations, and friends from all over the world who show understanding for and support China in its endeavor to modernize.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我们既要看到成绩，更要看到前进中的困难和挑战。</seg></tuv>
+<tuv xml:lang="en-US"><seg>While recognizing our achievements, we must also be mindful of the difficulties and challenges on the road ahead:</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>投资增长乏力，新的消费热点不多，国际市场没有大的起色，稳增长难度加大，一些领域仍存在风险隐患。</seg></tuv>
+<tuv xml:lang="en-US"><seg>--Growth in investment is sluggish; the number of new areas of strong consumer activity is limited; there is no sign the international market is about to significantly pick up; maintaining stable growth is becoming more difficult, and there are still latent risks in some areas.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>工业产品价格持续下降，生产要素成本上升，小微企业融资难融资贵问题突出，部分企业生产经营困难。</seg></tuv>
+<tuv xml:lang="en-US"><seg>--The prices of manufactured products are continuing to fall; the costs of factors of production are on the rise; small and micro businesses are finding it difficult and costly to obtain financing; and the going is tough for some enterprises.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>经济发展方式比较粗放，创新能力不足，产能过剩问题突出，农业基础薄弱。</seg></tuv>
+<tuv xml:lang="en-US"><seg>--China's economic growth model remains inefficient; our capacity for innovation is insufficient; overcapacity is a pronounced problem, and the foundation of agriculture is weak.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>群众对医疗、养老、住房、交通、教育、收入分配、食品安全、社会治安等还有不少不满意的地方。有些地方环境污染严重，重大安全事故时有发生。</seg></tuv>
+<tuv xml:lang="en-US"><seg>--There are still many problems of public concern in medical services, elderly care, housing, transport, education, income distribution, food safety, and law and order. Environmental pollution is serious in some localities, and major accidents in the workplace are not uncommon.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>政府工作还存在不足，有些政策措施落实不到位。少数政府机关工作人员乱作为，一些腐败问题触目惊心，有的为官不为，在其位不谋其政，该办的事不办。</seg></tuv>
+<tuv xml:lang="en-US"><seg>--There is still much to be improved in the work of the government, with some policies and measures not being satisfactorily implemented. A small number of government employees behave irresponsibly; shocking cases of corruption still exist; and some government officials are neglectful of their duties, holding onto their jobs while failing to fulfill their responsibilities.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我们要直面问题，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We must face these problems head on. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>安不忘危，治不忘乱，</seg></tuv>
+<tuv xml:lang="en-US"><seg>In times of peace one must be alert to danger, and in times of stability one must be mindful of the potential for chaos. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>勇于担当，不辱历史使命，不负人民重托。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We must be ready to bear the weight of responsibility, do justice to our historic mission, and live up to the great trust the people place in us.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>二、2015年工作总体部署</seg></tuv>
+<tuv xml:lang="en-US"><seg>II. The Plan for Work in 2015</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我国是世界上最大的发展中国家，仍处于并将长期处于社会主义初级阶段，发展是硬道理，是解决一切问题的基础和关键。</seg></tuv>
+<tuv xml:lang="en-US"><seg>China is the largest developing country in the world; it is still in the primary stage of socialism, where it will remain for a long time to come. At this stage, development is of primary importance to China; it is both the basis for and the key to solving every problem we face. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>化解各种矛盾和风险，跨越“中等收入陷阱”，实现现代化，根本要靠发展，发展必须有合理的增长速度。</seg></tuv>
+<tuv xml:lang="en-US"><seg>In order to defuse problems and risks, avoid falling into the "middle-income trap," and achieve modernization, China must rely on development, and development requires an appropriate growth rate.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>同时，我国经济发展进入新常态，正处在爬坡过坎的关口，</seg></tuv>
+<tuv xml:lang="en-US"><seg>At the same time, China's economic development has entered a new normal. Our country is in a crucial period during which challenges need to be overcome and problems need to be resolved. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>体制机制弊端和结构性矛盾是“拦路虎”，不深化改革和调整经济结构，就难以实现平稳健康发展。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Systemic, institutional, and structural problems have become "tigers in the road" holding up development. Without deepening reform and making economic structural adjustments, we will have a difficult time sustaining steady and sound development.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我们必须毫不动摇坚持以经济建设为中心，切实抓好发展这个执政兴国第一要务。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We must be adamant in pursuing economic development as our central task and make a thorough job of development as the top priority for ensuring the governance and revitalization of the country. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>必须坚持不懈依靠改革推动科学发展，加快转变经济发展方式，实现有质量有效益可持续的发展。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We must continue to promote development in a sound and balanced way through reform and speed up the transformation of the growth model so as to achieve quality, efficient, and sustainable development.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>当前，世界经济正处于深度调整之中，复苏动力不足，地缘政治影响加重，不确定因素增多，</seg></tuv>
+<tuv xml:lang="en-US"><seg>At present, the world economy is undergoing profound adjustment, its recovery lacks drive, the influence of geopolitics is increasing, and there are a greater number of uncertainties at play.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>推动增长、增加就业、调整结构成为国际社会共识。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Promoting growth, creating jobs, and making structural adjustments have become common goals for the international community. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我国经济下行压力还在加大，发展中深层次矛盾凸显，今年面临的困难可能比去年还要大。</seg></tuv>
+<tuv xml:lang="en-US"><seg>With downward pressure on China's economy building and deep-seated problems in development surfacing, the difficulties we are to encounter in the year ahead may be even more formidable than those of last year.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>同时，我国发展仍处于可以大有作为的重要战略机遇期，有巨大的潜力、韧性和回旋余地。</seg></tuv>
+<tuv xml:lang="en-US"><seg>On the other hand, China is still in an important period of strategic opportunity during which great progress can be made in development. Our country's development has enormous potential and is hugely resilient, and we have ample room for growth. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>新型工业化、信息化、城镇化、农业现代化持续推进，</seg></tuv>
+<tuv xml:lang="en-US"><seg>Steady progress is being made in the development of new types of industrialization, applications of information technologies, urbanization, and agricultural modernization;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>发展基础日益雄厚，</seg></tuv>
+<tuv xml:lang="en-US"><seg>the foundation underpinning development is becoming stronger by the day;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>改革红利正在释放，</seg></tuv>
+<tuv xml:lang="en-US"><seg>benefits of reform are being delivered as we speak;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>宏观调控积累了丰富经验。</seg></tuv>
+<tuv xml:lang="en-US"><seg>and we have gained much experience in conducting macro regulation. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我们必须增强忧患意识，坚定必胜信念，牢牢把握发展的主动权。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We must strengthen our awareness of latent problems while remaining fully confident and taking an active approach to development.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>新的一年是全面深化改革的关键之年，是全面推进依法治国的开局之年，也是稳增长调结构的紧要之年。</seg></tuv>
+<tuv xml:lang="en-US"><seg>This coming year will be crucial for comprehensively deepening reform, the first year for fully advancing the law-based governance of the country, and a critical year for ensuring steady growth and making structural adjustments. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>政府工作的总体要求是：</seg></tuv>
+<tuv xml:lang="en-US"><seg>The overall requirements for the government's work this year are as follows:</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>高举中国特色社会主义伟大旗帜，</seg></tuv>
+<tuv xml:lang="en-US"><seg>--hold high the great banner of socialism with Chinese characteristics;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>以邓小平理论、“三个代表”重要思想、科学发展观为指导，</seg></tuv>
+<tuv xml:lang="en-US"><seg>--follow the guidance of Deng Xiaoping Theory, the important thought of Three Represents, and the Scientific Outlook on Development;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>全面贯彻党的十八大和十八届三中、四中全会精神，</seg></tuv>
+<tuv xml:lang="en-US"><seg>--comprehensively implement the guiding principles of the 18th National Party Congress and the third and fourth plenary sessions of the 18th CPC Central Committee;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>贯彻落实习近平总书记系列重要讲话精神，</seg></tuv>
+<tuv xml:lang="en-US"><seg>--put into practice the guiding principles from General Secretary Xi Jinping's major speeches;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>按照“四个全面”战略布局，</seg></tuv>
+<tuv xml:lang="en-US"><seg>--act in accordance with the Four-Pronged Comprehensive Strategy;* (* The strategy is to make comprehensive moves to: 1) finish building a moderately prosperous society; 2) deepen reform; 3) advance the law-based governance of China; and 4) strengthen Party self-conduct.)</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>主动适应和引领经济发展新常态，</seg></tuv>
+<tuv xml:lang="en-US"><seg>--actively adapt to and guide the new normal in China's economic development;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>坚持稳中求进工作总基调，</seg></tuv>
+<tuv xml:lang="en-US"><seg>--adhere to the general principle of seeking progress while keeping performance stable;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>保持经济运行在合理区间，</seg></tuv>
+<tuv xml:lang="en-US"><seg>--ensure that the economy performs within an appropriate range;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>着力提高经济发展质量和效益，</seg></tuv>
+<tuv xml:lang="en-US"><seg>--focus on strengthening the quality and benefits of economic development;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>把转方式调结构放到更加重要位置，</seg></tuv>
+<tuv xml:lang="en-US"><seg>--give greater priority to transforming the growth model and making structural adjustments;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>狠抓改革攻坚，</seg></tuv>
+<tuv xml:lang="en-US"><seg>--tackle tough problems of reform head on;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>突出创新驱动，</seg></tuv>
+<tuv xml:lang="en-US"><seg>--pursue innovation-driven development;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>强化风险防控，</seg></tuv>
+<tuv xml:lang="en-US"><seg>--strengthen risk prevention and control;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加强民生保障，</seg></tuv>
+<tuv xml:lang="en-US"><seg>--strengthen safeguards for people's standard of living;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>处理好改革发展稳定关系，</seg></tuv>
+<tuv xml:lang="en-US"><seg>--get the right balance between carrying out reform, pursuing development, and ensuring stability;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>全面推进社会主义经济建设、政治建设、文化建设、社会建设、生态文明建设，</seg></tuv>
+<tuv xml:lang="en-US"><seg>--promote all-round socialist economic, political, cultural,social, and ecological advancement; and</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>促进经济平稳健康发展和社会和谐稳定。</seg></tuv>
+<tuv xml:lang="en-US"><seg>--achieve steady and sound economic development and ensure social harmony and stability.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我们要把握好总体要求，着眼于保持中高速增长和迈向中高端水平“双目标”，</seg></tuv>
+<tuv xml:lang="en-US"><seg>Keeping in mind these requirements, we must focus on achieving the dual objectives of maintaining a medium-high-level growth rate and moving toward a medium-high-level of development. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>坚持稳政策稳预期和促改革调结构“双结合”，打造大众创业、万众创新和增加公共产品、公共服务“双引擎”，推动发展调速不减势、量增质更优，实现中国经济提质增效升级。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We need to maintain policy continuity and keep expectations stable while moving forward with reform and structural adjustment, and we need to develop twin engines to drive development: popular entrepreneurship and innovation, paired with increased supplies of public goods and services. This will ensure that our growth rate is adjusted without weakening momentum and that growth in quantity is underpinned by greater quality, thereby achieving a better-quality, more efficient, upgraded economy.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>今年经济社会发展的主要预期目标是：</seg></tuv>
+<tuv xml:lang="en-US"><seg>We have set the main targets for China's economic and social development for this year as follows:</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>国内生产总值增长7%左右，</seg></tuv>
+<tuv xml:lang="en-US"><seg>--increase the GDP by approximately 7%;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>居民消费价格涨幅3%左右，</seg></tuv>
+<tuv xml:lang="en-US"><seg>--keep the increase in the CPI at around 3%;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>城镇新增就业1000万人以上，</seg></tuv>
+<tuv xml:lang="en-US"><seg>--create over ten million jobs in urban areas;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>城镇登记失业率4.5%以内，</seg></tuv>
+<tuv xml:lang="en-US"><seg>--ensure that the registered urban unemployment rate does not rise above 4.5%;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>进出口增长6%左右，</seg></tuv>
+<tuv xml:lang="en-US"><seg>--increase imports and exports by around 6%;
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>国际收支基本平衡，</seg></tuv>
+<tuv xml:lang="en-US"><seg>--achieve a basic balance of payments;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>居民收入增长与经济发展同步。</seg></tuv>
+<tuv xml:lang="en-US"><seg>--ensure that personal incomes increase in step with economic development; and </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>能耗强度下降3.1%以上，主要污染物排放继续减少。</seg></tuv>
+<tuv xml:lang="en-US"><seg>--cut energy intensity by 3.1%, and continue to reduce the emissions of major pollutants.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>经济增长预期7%左右，考虑了需要和可能，与全面建成小康社会目标相衔接，与经济总量扩大和结构升级的要求相适应，</seg></tuv>
+<tuv xml:lang="en-US"><seg>The target growth rate of approximately 7% takes into consideration what is needed and what is possible. This target is both aligned with our goal of finishing building a moderately prosperous society in all respects and is appropriate in terms of the need to grow and upgrade our economy. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>符合发展规律，符合客观实际。</seg></tuv>
+<tuv xml:lang="en-US"><seg>It is also in keeping with the objective laws of development as well as conditions in China.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>以这样的速度保持较长时期发展，实现现代化的物质基础就会更加雄厚。</seg></tuv>
+<tuv xml:lang="en-US"><seg>If China's economy can grow at this rate for a relatively long time, we will secure a more solid material foundation for modernization.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>稳增长也是为了保就业，</seg></tuv>
+<tuv xml:lang="en-US"><seg>At the same time, the aim of maintaining stable growth is to ensure employment. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>随着服务业比重上升、小微企业增多和经济体量增大，7%左右的速度可以实现比较充分的就业。</seg></tuv>
+<tuv xml:lang="en-US"><seg>As the service sector becomes larger, the number of small and micro businesses grows, and the economy gains in size, a growth rate of approximately 7% will ensure ample employment. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>各地要从实际出发，积极进取、挖掘潜力，努力争取更好结果。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Local governments need to set targets based on local conditions, be fully motivated to make progress, and tap into their full potential so as to deliver better outcomes.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>做好今年政府工作，要把握好以下三点。</seg></tuv>
+<tuv xml:lang="en-US"><seg>To deliver a good performance in the work of the government this year, we need to concentrate on the following three areas:</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>第一，稳定和完善宏观经济政策。</seg></tuv>
+<tuv xml:lang="en-US"><seg>First, we need to ensure continuity in and make improvements to macroeconomic policies.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>继续实施积极的财政政策和稳健的货币政策，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will continue to implement proactive fiscal policy and prudent monetary policy. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>更加注重预调微调，更加注重定向调控，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will pay greater attention to anticipatory adjustments, fine-tuning, and targeted regulation. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>用好增量，盘活存量，重点支持薄弱环节。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will put both existing and additional financial resources to good use, focusing particularly on strengthening weak spots.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>以微观活力支撑宏观稳定，以供给创新带动需求扩大，以结构调整促进总量平衡，确保经济运行在合理区间。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will improve micro-level vitality to underpin macroeconomic stability, explore new ways of achieving supply to boost demand, and balance total supply and demand through structural adjustments to ensure the economy performs within an appropriate range.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>积极的财政政策要加力增效。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Our proactive fiscal policy must sustain the momentum of economic growth and increase economic returns. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>今年拟安排财政赤字1.62万亿元，比去年增加2700亿元，赤字率从去年的2.1%提高到2.3%。</seg></tuv>
+<tuv xml:lang="en-US"><seg>The government budget deficit for 2015 is projected to be 1.62 trillion yuan, an increase of 270 billion yuan over last year, which means that the deficit to GDP ratio will rise from last year's 2.1% to 2.3%. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>其中，中央财政赤字1.12万亿元，增加1700亿元；地方财政赤字5000亿元，增加1000亿元。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Of this amount, the central government deficit will account for 1.12 trillion yuan, an increase of 170 billion yuan, and local government deficit will account for 500 billion yuan, an increase of 100 billion yuan. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>处理好债务管理与稳增长的关系，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We need to find the right balance between managing debt and maintaining steady growth. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>创新和完善地方政府举债融资机制。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will develop and improve mechanisms for local governments to secure financing through bond issuance. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>适当发行专项债券。保障符合条件的在建项目后续融资，防范和化解风险隐患。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will allow local governments to issue an appropriate amount of special bonds, ensure continued financing for eligible projects already under construction, and guard against and defuse risks and latent dangers. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>优化财政支出结构，大力盘活存量资金，提高使用效率。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will improve the mix of budgetary spending, redouble our efforts to put government funds on hand into use, and strengthen the effectiveness of government spending. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>继续实行结构性减税和普遍性降费，进一步减轻企业特别是小微企业负担。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will continue to make structural tax reductions and cut fees across the board so as to further lighten the burden on enterprises, particularly small and micro businesses.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>稳健的货币政策要松紧适度。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will pursue prudent and balanced monetary policy. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>广义货币M2预期增长12%左右，在实际执行中，根据经济发展需要，也可以略高些。</seg></tuv>
+<tuv xml:lang="en-US"><seg>The M2 money supply is forecasted to grow by around 12% in 2015, but the actual supply may be slightly higher than this projection depending on the needs of economic development. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加强和改善宏观审慎管理，灵活运用公开市场操作、利率、存款准备金率、再贷款等货币政策工具，保持货币信贷和社会融资规模平稳增长。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work to strengthen and improve macro-prudential regulation, adopt a flexible approach in our use of monetary policy tools including open market operations, interest rates, required reserve ratios, and re-lending, and maintain steady growth in the supply of money and credit as well as aggregate financing in the economy. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加快资金周转，优化信贷结构，提高直接融资比重，降低社会融资成本，让更多的金融活水流向实体经济。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will speed up the turnover of funds, improve the credit structure, increase the proportion of direct financing to total financing, and reduce the cost of financing, thereby allowing more financial resources to be channeled into the real economy.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>第二，保持稳增长与调结构的平衡。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Second, we need to maintain a proper balance between ensuring steady growth and making structural adjustments.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我国发展面临“三期叠加”矛盾，</seg></tuv>
+<tuv xml:lang="en-US"><seg>In its current stage of development, China has to deal simultaneously with the slowdown in economic growth, making difficult structural adjustments, and absorbing the effects of previous economic stimulus policies.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>资源环境约束加大，劳动力等要素成本上升，高投入、高消耗、偏重数量扩张的发展方式已经难以为继，必须推动经济在稳定增长中优化结构。</seg></tuv>
+<tuv xml:lang="en-US"><seg>As resource-related and environmental constraints grow and costs for labor and other factors of production rise, a model of development that draws on high levels of investment and energy consumption and is heavily driven by quantitative expansion becomes difficult to sustain. We must therefore improve the economic structure while ensuring steady growth.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>既要稳住速度，确保经济平稳运行，确保居民就业和收入持续增加，为调结构转方式创造有利条件；</seg></tuv>
+<tuv xml:lang="en-US"><seg>The growth rate must be kept steady to ensure that economic performance is stable, and that employment and personal incomes carry on increasing, thus creating a favorable environment for making structural adjustments and transforming the growth model.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>又要调整结构，夯实稳增长的基础。</seg></tuv>
+<tuv xml:lang="en-US"><seg>At the same time, structural adjustments must be made to consolidate the foundation for ensuring steady growth. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>要增加研发投入，提高全要素生产率，加强质量、标准和品牌建设，促进服务业和战略性新兴产业比重提高、水平提升，优化经济发展空间格局，加快培育新的增长点和增长极，实现在发展中升级、在升级中发展。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We need to increase research and development spending, raise total factor productivity, improve quality, standards, and brand-building, strengthen the service sector and strategic emerging industries and increase their share of the economy, improve the overall structure of economic growth, and work harder to foster new areas of growth and growth poles. With these efforts, we can ensure that economic upgrading and development reinforce each other.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>第三，培育和催生经济社会发展新动力。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Third, we need to nurture and hasten the birth of a new force for driving economic and social development.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>当前经济增长的传统动力减弱，必须加大结构性改革力度，加快实施创新驱动发展战略，改造传统引擎，打造新引擎。</seg></tuv>
+<tuv xml:lang="en-US"><seg>As the force that has traditionally driven economic growth is weakening, it is imperative that we intensify structural reform, boost efforts to implement the strategy of pursuing innovation-driven development, and upgrade traditional engines while creating new ones for driving development.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>一方面，增加公共产品和服务供给，加大政府对教育、卫生等的投入，鼓励社会参与，提高供给效率。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will increase the supply of public goods and services, increase government input in areas like education and health care, and encourage nongovernmental participation to improve the efficiency of supply. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>这既能补短板、惠民生，也有利于扩需求、促发展。</seg></tuv>
+<tuv xml:lang="en-US"><seg>This will bolster weak spots and benefit the people, as well as increase demand and promote development.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>另一方面，推动大众创业、万众创新。这既可以扩大就业、增加居民收入，又有利于促进社会纵向流动和公平正义。</seg></tuv>
+<tuv xml:lang="en-US"><seg>At the same time, we will also encourage people to start their own businesses and to make innovations, which will not only create more jobs and increase personal incomes, but also improve upwards social mobility and social equity and justice.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我国有13亿人口、9亿劳动力资源，</seg></tuv>
+<tuv xml:lang="en-US"><seg>China has a population of 1.3 billion and a workforce of 900 million. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>人民勤劳而智慧，蕴藏着无穷的创造力，</seg></tuv>
+<tuv xml:lang="en-US"><seg>Our people are hardworking and talented, and there is no limit to their ingenuity.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>千千万万个市场细胞活跃起来，必将汇聚成发展的巨大动能，一定能够顶住经济下行压力，让中国经济始终充满勃勃生机。</seg></tuv>
+<tuv xml:lang="en-US"><seg>When an abundance of market cells spring into life, they will form a mighty driving force for development, ensuring China's economy remains resilient in spite of the downward pressure on it, and continues to be full of life and dynamism. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>政府要勇于自我革命，给市场和社会留足空间，为公平竞争搭好舞台。</seg></tuv>
+<tuv xml:lang="en-US"><seg>The government should be bold in imposing a reform on itself so as to leave ample space for the market and society to play their respective roles and level the playing field for fair competition. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>个人和企业要勇于创业创新，全社会要厚植创业创新文化，让人们在创造财富的过程中，更好地实现精神追求和自身价值。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Individuals and enterprises must have the mettle to promote their business development and make innovations, and our society needs to nurture a culture of entrepreneurship and innovation. In this way, while creating wealth, people will be able to meet their cultural and intellectual needs and realize their full potential in life.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>今年是“十二五”收官之年，我们要在完成“十二五”经济社会发展主要目标任务的同时，以改革的精神、创新的理念和科学的方法，做好“十三五”规划纲要编制工作，谋划好未来五年的发展蓝图。</seg></tuv>
+<tuv xml:lang="en-US"><seg>This year is the final year for completing the 12th Five-Year Plan. As we strive to accomplish the major tasks and objectives for economic and social development set forth in this plan, we need to formulate the 13th Five-Year Plan, bringing to this work the spirit of reform and innovation and adopting a scientific approach.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>三、把改革开放扎实推向纵深</seg></tuv>
+<tuv xml:lang="en-US"><seg>III. Deepening Reform and Opening Up</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>改革开放是推动发展的制胜法宝。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Reform and opening up is crucial for driving development. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>必须以经济体制改革为重点全面深化改革，统筹兼顾，真抓实干，在牵动全局的改革上取得新突破，增强发展新动能。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We must focus on economic structural reform as we comprehensively deepen reform, taking all things into consideration in planning, working solidly to deliver concrete outcomes, making new breakthroughs in areas that can boost development as a whole, and strengthening new momentum to drive development.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加大简政放权、放管结合改革力度。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will do more to streamline administration and delegate more powers to lower-level governments and to society in general while improving regulation.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>今年再取消和下放一批行政审批事项，全部取消非行政许可审批，建立规范行政审批的管理制度。</seg></tuv>
+<tuv xml:lang="en-US"><seg>This year, we will delegate the power or cancel the requirement for government review for more items, cancel all non-administrative review, and establish a system for exercising well-regulated management over the government review process. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>深化商事制度改革，进一步简化注册资本登记，逐步实现“三证合一”，清理规范中介服务。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will deepen reform of the business system; further simplify the process for capital registration; take gradual steps to integrate the business license, the certificate of organization codes, and the certificate of taxation registration into one certificate; and overhaul and regulate intermediary services. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>制定市场准入负面清单，公布省级政府权力清单、责任清单，切实做到法无授权不可为、法定职责必须为。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will draw up a negative list for market access, ensure that provincial-level governments make their lists of powers and responsibilities open to the public, and make sure that anything the law does not authorize is not done, while all duties and functions assigned by law are performed.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>地方政府对应当放给市场和社会的权力，要彻底放、不截留，对上级下放的审批事项，要接得住、管得好。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Local governments must completely let go of powers that should be delegated to the market or society, and properly exercise the power of review over all items that have been delegated to them by higher-level governments. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加强事中事后监管，健全为企业和社会服务一张网，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will exercise stronger oversight both during and after the handling of matters, and improve the network of services for both enterprises and the general public. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>推进社会信用体系建设，建立全国统一的社会信用代码制度和信用信息共享交换平台，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work to improve the credit rating system, put in place a national unified system of codes for rating credit, and establish a platform for sharing and exchanging information on credit.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>依法保护企业和个人信息安全。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will, in accordance with the law, protect the information security of enterprises and individuals.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>大道至简，有权不可任性。</seg></tuv>
+<tuv xml:lang="en-US"><seg>It goes without saying that powers should not be held without good reason. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>各级政府都要建立简政放权、转变职能的有力推进机制，给企业松绑，为创业提供便利，营造公平竞争环境。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Governments at all levels need to adopt effective ways to streamline administration, delegate powers, and transform their functions, creating an enabling environment for enterprises, making it easier to start up in business, and creating the right environment for fair competition. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>所有行政审批事项都要简化程序，明确时限，用政府权力的“减法”，换取市场活力的“乘法”。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Procedures and processes must be simplified and time frames must be clarified for all items requiring administrative review, and cuts to government power will be made to boost market vitality.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>多管齐下改革投融资体制。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will take multiple measures to reform the investment and financing systems.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>大幅缩减政府核准投资项目范围，下放核准权限。大幅减少投资项目前置审批，实行项目核准网上并联办理。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will substantially reduce the number of investment projects that require government review, delegate more powers of review to lower-level governments, significantly streamline the need for preliminary review for investment projects, and conduct project reviews online. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>大幅放宽民间投资市场准入，鼓励社会资本发起设立股权投资基金。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will greatly relax market access for private investment and encourage the use of private capital to set up equity funds. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>政府采取投资补助、资本金注入、设立基金等办法，引导社会资本投入重点项目。</seg></tuv>
+<tuv xml:lang="en-US"><seg>The government will guide nongovernmental investments toward key projects by subsidizing investments, injecting capital, and establishing funds. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>以用好铁路发展基金为抓手，深化铁路投融资改革。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will deepen reform of railway investment and financing by making good use of railway development funds. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>在基础设施、公用事业等领域，积极推广政府和社会资本合作模式。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will actively promote models of cooperation between government and nongovernmental capital in developing infrastructure and public utilities.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>不失时机加快价格改革。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will take timely action to accelerate price reform.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>改革方向是发挥市场在资源配置中的决定性作用，大幅缩减政府定价种类和项目，</seg></tuv>
+<tuv xml:lang="en-US"><seg>This reform is aimed at ensuring the market plays the decisive role in allocating resources and significantly reducing the number of categories and items of goods and services for which prices are set by the government.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>具备竞争条件的商品和服务价格原则上都要放开。</seg></tuv>
+<tuv xml:lang="en-US"><seg>In principle, we will lift pricing controls over all goods and services that can viably compete in markets. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>取消绝大部分药品政府定价，下放一批基本公共服务收费定价权。</seg></tuv>
+<tuv xml:lang="en-US"><seg>The government will stop setting prices for most pharmaceuticals and delegate to lower-level governments the power to set prices for certain basic public services.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>扩大输配电价改革试点，推进农业水价改革，健全节能环保价格政策。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will expand the trials of pricing reforms for electricity transmission and distribution, carry out pricing reforms for water used in agriculture, and improve pricing policies to make them more conducive to energy conservation and environmental protection. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>完善资源性产品价格，全面实行居民阶梯价格制度。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will improve the pricing of resource products and fully implement a system of tiered pricing for electricity, water, and natural gas used for household purposes. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>同时必须加强价格监管，规范市场秩序，确保低收入群众基本生活。</seg></tuv>
+<tuv xml:lang="en-US"><seg>At the same time, we must strengthen oversight over pricing, improve market order, and ensure the basic living standards of people on low incomes.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>推动财税体制改革取得新进展。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will ensure that progress is made in the reform of the fiscal and tax systems.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>实行全面规范、公开透明的预算管理制度，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will put in place a comprehensive, well-regulated, open, and transparent budgeting system.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>除法定涉密信息外，中央和地方所有部门预决算都要公开，全面接受社会监督。</seg></tuv>
+<tuv xml:lang="en-US"><seg>With the exception of cases where classified information is involved, all central and local government departments must release their budgets and final accounts for public oversight. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>提高国有资本经营预算调入一般公共预算的比例。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will increase the percentage of funds transferred from the budgets for state capital operations to general public budgets. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>推行中期财政规划管理。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will introduce medium-term fiscal planning. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>制定盘活财政存量资金的有效办法。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will design effective measures to make good use of government funds at hand.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>力争全面完成“营改增”，调整完善消费税政策，扩大资源税从价计征范围。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will devote serious energy to completing work to replace business tax with VAT across the board, adjust and improve policies on consumption tax, and extend price-based resource taxes to cover more types of resources. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>提请修订税收征管法。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will submit a proposal to the NPC Standing Committee on revising the Law on the Administration of Tax Collection.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>改革转移支付制度，完善中央和地方的事权与支出责任，合理调整中央和地方收入划分。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will reform the transfer payments system, clearly define the respective powers and spending responsibilities of the central and local governments, and make appropriate adjustments to the division of revenue between them.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>围绕服务实体经济推进金融改革。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will move ahead with financial reform to better serve the real economy.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>推动具备条件的民间资本依法发起设立中小型银行等金融机构，成熟一家，批准一家，不设限额。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will encourage qualified private investors to establish, in accordance with the law, small and medium-sized banks and other financial institutions; there will be no quota imposed on them, and approval will be granted as long as all required conditions are met. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>深化农村信用社改革，稳定其县域法人地位。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will deepen reform of rural credit cooperatives, and keep their status as legal persons in their counties stable. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>发挥好开发性金融、政策性金融在增加公共产品供给中的作用。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will ensure development-oriented and policy-backed financial institutions function effectively in increasing the supply of public goods.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>推出存款保险制度。</seg></tuv>
+<tuv xml:lang="en-US"><seg>A deposit insurance system will be established. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>推进利率市场化改革，健全中央银行利率调控框架。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will further liberalize interest rates and improve the central bank's framework for their regulation. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>保持人民币汇率处于合理均衡水平，增强人民币汇率双向浮动弹性。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work to keep the RMB exchange rate at an appropriate and balanced level and allow it to float more freely. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>稳步实现人民币资本项目可兑换，扩大人民币国际使用，加快建设人民币跨境支付系统，完善人民币全球清算服务体系，开展个人投资者境外投资试点，适时启动“深港通”试点。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will make steady progress in realizing the convertibility of the RMB capital accounts, expand the use of the RMB internationally, accelerate the establishment of a cross-border payment system for the RMB, improve the worldwide clearing system for the RMB, pilot private overseas investment, and launch the Shenzhen-Hong Kong Stock Connect on a trial basis at an appropriate time.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加强多层次资本市场体系建设，实施股票发行注册制改革，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will strengthen the multilevel capital market and implement the reform to introduce a system of registration for issuing stocks.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>发展服务中小企业的区域性股权市场，推进信贷资产证券化，扩大企业债券发行规模，发展金融衍生品市场。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will develop regional equity markets to serve small and medium-sized enterprises, encourage the securitization of credit assets, prompt an expansion of the issuance of corporate bonds, and develop the financial derivatives market. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>推出巨灾保险、个人税收递延型商业养老保险。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will launch insurance to cover major disasters and commercial pension schemes that allow for deferred payment of individual income tax.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>创新金融监管，防范和化解金融风险。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will explore new approaches to financial regulation to prevent and diffuse financial risks. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>大力发展普惠金融，让所有市场主体都能分享金融服务的雨露甘霖。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will channel great energy into developing inclusive finance and ensuring equitable access to financial services for all market entities.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>深化国企国资改革。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will deepen the reform of state-owned enterprises (SOEs) and state capital.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>准确界定不同国有企业功能，分类推进改革。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will push forward with targeted reform of SOEs on the basis of having clearly defined their functions. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加快国有资本投资公司、运营公司试点，打造市场化运作平台，提高国有资本运营效率。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will move more swiftly in carrying out trials on establishing state capital investment companies and operating companies, create a market-based platform for state capital operations, and improve their performance.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>有序实施国有企业混合所有制改革，鼓励和规范投资项目引入非国有资本参股。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will take systematic steps to implement the reform of introducing mixed ownership to SOEs, and both encourage and regulate equity investment made by non-state capital in SOE investment projects. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加快电力、油气等体制改革。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will accelerate structural reform of the electricity, oil, and natural gas industries. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>多渠道解决企业办社会负担和历史遗留问题，保障职工合法权益。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work, through multiple channels, to relieve SOEs of their obligation to operate social programs and help them solve longstanding problems, while at the same time ensuring that the legitimate rights and interests of workers are protected. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>完善现代企业制度，改革和健全企业经营者激励约束机制。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will ensure that SOEs improve their modern corporate structure, and incentive and restraint mechanisms for their executives are reformed and strengthened. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>要加强国有资产监管，防止国有资产流失，切实提高国有企业的经营效益。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will strengthen regulation of state-owned assets and guard against their loss, and ensure that SOEs improve their performance.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>非公有制经济是我国经济的重要组成部分。</seg></tuv>
+<tuv xml:lang="en-US"><seg>The non-public sector is an important component of China's economy. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>必须毫不动摇鼓励、支持、引导非公有制经济发展，注重发挥企业家才能，全面落实促进民营经济发展的政策措施，增强各类所有制经济活力，让各类企业法人财产权依法得到保护。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will remain firmly committed to encouraging, supporting, and guiding the development of this sector, work to enable entrepreneurs to give full expression to their talent, put into effect all policies and measures encouraging the development of the private sector, strengthen the vitality of enterprises under all types of ownership, and protect the property rights of all types of enterprise-legal persons in accordance with the law.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>继续推进科技、教育、文化、医药卫生、养老保险、事业单位、住房公积金等领域改革。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will continue to push ahead with reforms in science, technology, education, culture, medical and health care, pensions, public institutions, and the housing provident fund. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>发展需要改革添动力，群众期盼改革出实效，</seg></tuv>
+<tuv xml:lang="en-US"><seg>Development needs to be driven by reform, and the people are expecting the real benefits reform delivers.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我们要努力交出一份为发展加力、让人民受益的改革答卷。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We must work hard to make sure that reform boosts development and benefits our people.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>开放也是改革。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Opening up is itself a reform. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>必须实施新一轮高水平对外开放，加快构建开放型经济新体制，以开放的主动赢得发展的主动、国际竞争的主动。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We must carry out a new round of high-quality opening up, move more swiftly in building a new open economy, and maintain momentum in development and in international competition by pressing ahead with opening up.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>推动外贸转型升级。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will transform and upgrade China's foreign trade.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>完善出口退税负担机制，自2015年起增量部分由中央财政全额负担，让地方和企业吃上“定心丸”。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will improve the mechanism for sharing the cost of export tax rebates between the central and local governments, with the central government paying all the increase for the benefit of local governments and exporting enterprises beginning in 2015.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>清理规范进出口环节收费，建立并公开收费项目清单。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will overhaul and regulate charges for imports and exports, and establish and release a complete list of such charges. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>实施培育外贸竞争新优势的政策措施，促进加工贸易转型，发展外贸综合服务平台和市场采购贸易，扩大跨境电子商务综合试点，增加服务外包示范城市数量，提高服务贸易比重。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will implement policies and measures to enable China's foreign trade to develop new competitive edges, facilitate the transformation of processing trade, develop market purchase trade and a comprehensive service platform for foreign trade, expand comprehensive trials in cross-border e-commerce, turn more cities into trendsetters in undertaking services outsourced by other countries, and increase the share of service trade in China's foreign trade. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>实施更加积极的进口政策，扩大先进技术、关键设备、重要零部件等进口。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will adopt a more active import policy to increase the import of advanced technology, key equipment, and important parts and components.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>更加积极有效利用外资。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will take a more active, more effective approach to making use of foreign capital.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>修订外商投资产业指导目录，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will revise the Catalogue for the Guidance of Industries for Foreign Investment.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>重点扩大服务业和一般制造业开放，把外商投资限制类条目缩减一半。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will focus on making the service and manufacturing sectors even more open by halving the number of industries in which foreign investment is restricted. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>全面推行普遍备案、有限核准的管理制度，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will introduce, across the board, the management system under which foreign investment projects generally need only to be placed on record, with government review required in only a limited number of cases.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>大幅下放鼓励类项目核准权，积极探索准入前国民待遇加负面清单管理模式。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will delegate to lower-level governments the power of review for a large number of projects that are encouraged by the state; and work actively to explore the management model of pre-establishment national treatment plus a negative list. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>修订外商投资相关法律，健全外商投资监管体系，打造稳定公平透明可预期的营商环境。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work to improve the foreign investment regulatory system, revise laws concerning foreign investment, and create a stable, fair, transparent, and predictable business environment.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加快实施走出去战略。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will speed up the implementation of the "go global" strategy.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>鼓励企业参与境外基础设施建设和产能合作，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will encourage Chinese companies to participate in overseas infrastructure development projects and engage in cooperation with their foreign counterparts in building up production capacity.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>推动铁路、电力、通信、工程机械以及汽车、飞机、电子等中国装备走向世界，促进冶金、建材等产业对外投资。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work to increase the international market share of Chinese railway, electric power, communications, engineering machinery, automobile, aircraft, electronics, and other equipment, and encourage the metallurgical, building materials, and other industries to invest overseas. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>实行以备案制为主的对外投资管理方式。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Outbound investment will be mainly managed on a record-keeping basis. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>扩大出口信用保险规模，对大型成套设备出口融资应保尽保。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will scale up export credit insurance to provide export financing insurance for all insurable complete sets of large equipment.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>拓宽外汇储备运用渠道，健全金融、信息、法律、领事保护服务。注重风险防范，提高海外权益保障能力。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will broaden the channels for using foreign exchange reserves, provide better financial services, information services, legal services, and consulate protection to Chinese firms investing abroad, guard against risk, and strengthen our capacity to protect the rights and interests of Chinese enterprises overseas. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>让中国企业走得出、走得稳，在国际竞争中强筋健骨、发展壮大。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We are confident that these steps will enable Chinese companies to go global and go steadily, emerging stronger in international competition.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>构建全方位对外开放新格局。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will foster a new environment in all-round opening up.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>推进丝绸之路经济带和21世纪海上丝绸之路合作建设。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work with the relevant countries in developing the Silk Road Economic Belt and the 21st Century Maritime Silk Road. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加快互联互通、大通关和国际物流大通道建设。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will move faster to strengthen infrastructure connectivity with China's neighbors, simplify customs clearance procedures, and build international logistics gateways. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>构建中巴、孟中印缅等经济走廊。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work to build the China-Pakistan Economic Corridor and the Bangladesh-China-India-Myanmar Economic Corridor. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>扩大内陆和沿边开放，促进经济技术开发区创新发展，提高边境经济合作区、跨境经济合作区发展水平。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will make China's interior and border areas more open to the outside world, promote the innovation-driven development of economic and technological development zones, and upgrade both border and cross-border economic cooperation areas. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>积极推动上海、广东、天津、福建自贸试验区建设，在全国推广成熟经验，形成各具特色的改革开放高地。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work actively to develop pilot free trade zones in Shanghai, Guangdong, Tianjin, and Fujian, and extend good practices developed in these zones to the rest of the country so that such zones become leading reform and opening up areas, each with its own distinctive features.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>统筹多双边和区域开放合作。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will promote multilateral, bilateral, and regional opening up and cooperation.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>维护多边贸易体制，推动信息技术协定扩围，积极参与环境产品、政府采购等国际谈判。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will uphold multilateral trade systems, work to promote expansion of the Information Technology Agreement, and take an active part in international talks in areas such as environmental products and government procurement. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加快实施自贸区战略，尽早签署中韩、中澳自贸协定，加快中日韩自贸区谈判，推动与海合会、以色列等自贸区谈判，力争完成中国－东盟自贸区升级谈判和区域全面经济伙伴关系协定谈判，建设亚太自贸区。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will move faster to implement the strategy of developing free trade zones, ensuring that agreements on free trade zones with the Republic of Korea and Australia are signed as soon as possible; stepping up negotiations on the China-Japan-RoK Free Trade Zone; working for progress in talks on free trade zones with the Gulf Cooperation Council and Israel; endeavoring to complete the talks on upgrading the China-ASEAN Free Trade Zone and on establishing the Regional Comprehensive Economic Partnership; and working to build the Asia-Pacific Free Trade Zone. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>推进中美、中欧投资协定谈判。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will continue negotiations on investment agreements with the United States and the European Union. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>中国是负责任、敢担当的国家，我们愿做互利共赢发展理念的践行者、全球经济体系的建设者、经济全球化的推动者。</seg></tuv>
+<tuv xml:lang="en-US"><seg>As a responsible and enterprising nation, China champions the vision of promoting mutually beneficial development, boosting the global economy, and encouraging economic globalization.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>四、协调推动经济稳定增长和结构优化</seg></tuv>
+<tuv xml:lang="en-US"><seg>IV. Balancing Steady Economic Growth and Structural Improvement</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>稳增长和调结构相辅相成。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Steady growth and structural adjustment complement each other. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我们既要全力保持经济在合理区间运行，又要积极促进经济转型升级、行稳致远。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We must work hard to ensure that the economy performs within an appropriate range while promoting economic transformation and upgrading, and maintaining sustainable economic growth.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加快培育消费增长点。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will move faster to foster growth areas of consumption.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>鼓励大众消费，控制“三公”消费。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will encourage private consumption and curb spending on official overseas visits, official vehicles, and official hospitality. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>促进养老家政健康消费，壮大信息消费，提升旅游休闲消费，推动绿色消费，稳定住房消费，扩大教育文化体育消费。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will promote consumption in elderly care, domestic services, and health services, help strengthen spending on information goods and services, raise consumer spending on leisure and tourism, give impetus to green consumption, keep housing consumption stable, and encourage people to spend more on education, culture, and sports.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>全面推进“三网”融合，加快建设光纤网络，大幅提升宽带网络速率，发展物流快递，把以互联网为载体、线上线下互动的新兴消费搞得红红火火。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will press ahead with the nationwide project to deliver telecoms, radio, television, and Internet service over a single broadband connection, accelerate the development of fiber-optic networks, significantly increase broadband speeds, develop logistics and express delivery services, and ensure that new forms of Internet-based spending, which combine online-offline activities, come to thrive.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>建立健全消费品质量安全监管、追溯、召回制度，严肃查处制售假冒伪劣行为，保护消费者合法权益。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will strengthen monitoring, tracking, and recall systems to ensure the safety and quality of consumer goods, severely punish the production and sale of counterfeit and shoddy goods, and protect the legitimate rights and interests of consumers. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>扩大消费要汇小溪成大河，让亿万群众的消费潜力成为拉动经济增长的强劲动力。</seg></tuv>
+<tuv xml:lang="en-US"><seg>In expanding consumption, we need to ensure every drop of spending builds to create a mighty river, so that the potential contained in an ocean of private consumers will be channeled into a powerful force driving economic growth.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>增加公共产品有效投资。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will increase effective investment in public goods.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>确保完成“十二五”规划重点建设任务，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will ensure that the projects set out in the 12th Five-Year Plan are completed. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>启动实施一批新的重大工程项目。主要是：</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will launch a number of major new projects, including:</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>棚户区和危房改造、城市地下管网等民生项目，</seg></tuv>
+<tuv xml:lang="en-US"><seg>--projects for rebuilding rundown urban areas and renovating dilapidated housing, urban underground pipe network projects, and other projects to improve living standards;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>中西部铁路和公路、内河航道等重大交通项目，</seg></tuv>
+<tuv xml:lang="en-US"><seg>--major railway, highway, and inland waterway transport projects in the central and western regions;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>水利、高标准农田等农业项目，</seg></tuv>
+<tuv xml:lang="en-US"><seg>--agricultural projects on water conservancy and developing high-quality farmland;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>信息、电力、油气等重大网络项目，</seg></tuv>
+<tuv xml:lang="en-US"><seg>--projects that involve major information, electricity, oil, and natural gas networks;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>清洁能源及油气矿产资源保障项目，</seg></tuv>
+<tuv xml:lang="en-US"><seg>--clean energy projects, and oil, natural gas, and mineral resource supply projects;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>传统产业技术改造等项目，</seg></tuv>
+<tuv xml:lang="en-US"><seg>--projects for upgrading traditional industries; and</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>节能环保和生态建设项目。</seg></tuv>
+<tuv xml:lang="en-US"><seg>--energy-saving, environmental protection, and ecological conservation projects.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>今年中央预算内投资增加到4776亿元，</seg></tuv>
+<tuv xml:lang="en-US"><seg>This year, the central government will increase its budgetary investment to 477.6 billion yuan.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>但政府不唱“独角戏”，要更大激发民间投资活力，引导社会资本投向更多领域。</seg></tuv>
+<tuv xml:lang="en-US"><seg>However, the government does not intend to perform an investment soliloquy; we need to do more to stimulate private investment and channel the investment of nongovernmental capital into more areas.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>铁路投资要保持在8000亿元以上，新投产里程8000公里以上，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will invest over 800 billion yuan in railway construction and open over 8,000 kilometers of railways to traffic.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>在全国基本实现高速公路电子不停车收费联网，使交通真正成为发展的先行官。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work to ensure that drive-through electronic toll collection systems are connected up on expressways throughout the country, and work toward making transportation truly lead the way in promoting development. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>重大水利工程已开工的57个项目要加快建设，今年再开工27个项目，在建重大水利工程投资规模超过8000亿元。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Construction on the 57 ongoing major water conservancy projects needs to be accelerated; construction will be started on an additional 27 such projects this year, and investment in the major water conservancy projects under construction will exceed 800 billion yuan. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>棚改、铁路、水利等投资多箭齐发，重点向中西部地区倾斜，使巨大的内需得到更多释放。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Investment to be made in the above sectors, such as railways, water conservancy, and projects to rebuild rundown urban areas, will be weighted toward the central and western regions, helping stimulate enormous domestic demand.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加快推进农业现代化。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work harder to modernize agriculture.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>坚持“三农”重中之重地位不动摇，加快转变农业发展方式，让农业更强、农民更富、农村更美。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will continue to give top priority to our work relating to agriculture, rural areas, and the rural population, speed up the transformation of the agricultural growth model, and ensure that agriculture is stronger, people in rural areas are better off, and rural China is more beautiful.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>今年粮食产量要稳定在1.1万亿斤以上，保障粮食安全和主要农产品供给。</seg></tuv>
+<tuv xml:lang="en-US"><seg>This year, we need to keep grain output above 550 million metric tons, and ensure both food security and the supply of major agricultural products. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>坚守耕地红线，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will make sure that China's arable land area does not fall below the red line of 120 million hectares. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>全面开展永久基本农田划定工作，实施耕地质量保护与提升行动，推进土地整治，增加深松土地2亿亩。加强农田水利基本建设，大力发展节水农业。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will carry out work on designating permanent basic cropland throughout the country, launch an initiative to maintain and enhance the quality of cultivated land, improve rural land, improve the subsoil of 13.3 million hectares of cropland, strengthen the building of irrigation and water conservancy facilities, and work hard to develop water-efficient agriculture.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加快新技术、新品种、新农机研发推广应用。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will step up efforts to develop and expand the use of new technology, new crop varieties, and new agricultural machinery. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>引导农民瞄准市场调整种养结构，支持农产品加工特别是主产区粮食就地转化，开展粮食作物改为饲料作物试点。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will guide farmers to adjust what and how much they grow or breed based on market demand. We will offer support for agricultural products to be processed locally, particularly for grain processing in major grain-growing areas, and carry out pilot projects to replace grain crop cultivation with feed crop cultivation. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>综合治理农药兽药残留问题，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will comprehensively address problems such as residual traces of chemicals in agricultural products and livestock shipments.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>全面提高农产品质量和食品安全水平。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work to improve the quality of all agricultural products and make our food more safe to eat.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>新农村建设要惠及广大农民。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Our efforts to build a new countryside should benefit the rural population. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>突出加强水和路的建设，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will give high priority to building roads and water facilities. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>今年再解决6000万农村人口饮水安全问题，新建改建农村公路20万公里，全面完成西部边远山区溜索改桥任务。</seg></tuv>
+<tuv xml:lang="en-US"><seg>This year, we will ensure that 60 million more rural residents gain access to safe drinking water; that 200,000 kilometers of rural roads are built or upgraded; and that bridges are built to replace all ropeways in the western region. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>力争让最后20多万无电人口都能用上电。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work toward providing electricity to the over 200,000 remaining people in China who are still without access.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>以垃圾、污水为重点加强环境治理，建设美丽宜居乡村。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will strengthen efforts to improve the environment, focusing particularly on refuse and sewage treatment, to build a more beautiful and livable countryside. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>多渠道促进农民增收，保持城乡居民收入差距缩小势头。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will increase rural incomes through multiple channels and keep narrowing the urban-rural income gap.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>持续打好扶贫攻坚战，深入推进集中连片特困地区扶贫开发，实施精准扶贫、精准脱贫。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will continue to fight the battle against poverty, carry out extensive poverty alleviation and development programs in contiguous poor areas, and take targeted measures to help people lift themselves out of poverty. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>难度再大，今年也要再减少农村贫困人口1000万人以上。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Regardless of how difficult it may be, this year, we must again reduce the poor rural population by more than 10 million.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>推进农业现代化，改革是关键。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Reform is key to modernizing agriculture. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>要在稳定家庭经营的基础上，支持种养大户、家庭农牧场、农民合作社、产业化龙头企业等新型经营主体发展，培养新型职业农民，推进多种形式适度规模经营。</seg></tuv>
+<tuv xml:lang="en-US"><seg>On the premise of keeping household operations stable, we will support the development of large family farming businesses, family farms and pastures, farmers' cooperatives, leading agricultural enterprises, and other emerging agribusinesses; cultivate a new type of skilled farmer; and develop diversified and scaled agricultural operations.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>做好土地确权登记颁证工作，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will ensure smooth progress in determining, registering, and certifying contracted rural land-use rights.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>审慎开展农村土地征收、集体经营性建设用地入市、宅基地制度、集体产权制度等改革试点。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will move prudently to carry out pilot reforms relating to rural land requisition, putting rural collective land designated for business-related construction on the market, the system of land use for rural housing, and the rural collective property rights system. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>在改革中，要确保耕地数量不减少、质量不下降、农民利益有保障。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We need to ensure that during reform, the acreage of cultivated land does not diminish, its quality does not deteriorate, and the interests of people in rural areas are protected.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>深化供销社、农垦、种业、国有林场林区等改革，办好农村改革试验区和现代农业示范区。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will deepen the reform of rural supply and marketing cooperatives, state farms on reclaimed land, the seed industry, state forestry farms, and state forests, and work to ensure the success of both experimental zones for carrying out rural reform and modern agriculture demonstration zones. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>完善粮食最低收购价和临时收储政策，改进农产品目标价格补贴办法。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will refine the policy on setting minimum state grain purchase prices and the policy on the temporary state purchase and storage of major agricultural products, and improve the ways that subsidies are granted under the system of guaranteed base prices for agricultural products. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加强涉农资金统筹整合和管理。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will strengthen the integration and management of funds for agricultural development. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>无论财政多困难，惠农政策只能加强不能削弱，支农资金只能增加不能减少。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Whatever fiscal difficulties we may face, our policies to support agriculture must be strengthened, and related funding must be increased.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>推进新型城镇化取得新突破。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work to achieve breakthroughs in promoting a new type of urbanization.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>城镇化是解决城乡差距的根本途径，也是最大的内需所在。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Urbanization is a fundamental way to narrow the gap between urban and rural areas and provides the largest source of domestic demand. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>要坚持以人为核心，以解决三个1亿人问题为着力点，发挥好城镇化对现代化的支撑作用。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will make urbanization people-oriented, focus on the three tasks, * and fully leverage the role of urbanization in underpinning modernization. (* These tasks are: 1) grant urban residency to 100 million people who have moved to cities from rural areas; 2) rebuild rundown areas and “villages” within cities where 100 million people are currently living; and 3) guide the process of urbanization for 100 million people in the central and western regions.)</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加大城镇棚户区和城乡危房改造力度。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will redouble efforts to rebuild rundown urban areas and renovate dilapidated urban and rural housing. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>今年保障性安居工程新安排740万套，其中棚户区改造580万套，增加110万套，</seg></tuv>
+<tuv xml:lang="en-US"><seg>This year, our plan includes building an additional 7.4 million units of government-subsidized housing, of which 5.8 million are to be located in rundown urban areas, an increase of 1.1 million over last year.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>把城市危房改造纳入棚改政策范围。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will bring the renovation of dilapidated urban housing under the coverage of the policy on rebuilding rundown areas. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>农村危房改造366万户，增加100万户，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will renovate 3.66 million dilapidated rural houses, an increase of one million over the number renovated last year. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>统筹推进农房抗震改造。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will carry out coordinated work to make rural housing more earthquake resistant.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>住房保障逐步实行实物保障与货币补贴并举，把一些存量房转为公租房和安置房。</seg></tuv>
+<tuv xml:lang="en-US"><seg>In providing government housing support, we will phase in the policy of using both the provision of physical housing and the allocation of housing subsidies, and transform a portion of available housing into public rental housing or housing to be sold to those being relocated. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>对居住特别困难的低保家庭，给予住房救助。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Housing allowances will be provided to families who live on subsistence allowances and are facing serious housing difficulties. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>坚持分类指导，因地施策，落实地方政府主体责任，支持居民自住和改善性住房需求，促进房地产市场平稳健康发展。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will give targeted guidance, implement policies suitable to local conditions, assign primary responsibility to local governments for the development of housing, support people's demand for housing for personal use and second homes, and promote the stable and sound development of the real estate market.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>用改革的办法解决城镇化难点问题。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will draw on reform to solve tough issues in urbanization. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>抓紧实施户籍制度改革，落实放宽户口迁移政策。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We need to promptly implement reforms to the household registration system and relax controls over the transfer of household registration. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>对已在城镇就业和居住但尚未落户的外来人口，以居住证为载体提供相应基本公共服务，取消居住证收费。</seg></tuv>
+<tuv xml:lang="en-US"><seg>People originally from rural areas who live and work in urban areas but have yet to gain urban residency will be able to access basic public services on the basis of their residence certificates, and we will get rid of fees related to residence certification. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>建立财政转移支付与市民化挂钩机制，合理分担农民工市民化成本。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will link the transfer payments of cities to their performance in granting urban residency to eligible migrant workers and find suitable ways to share the cost of ensuring migrant workers can become urban citizens. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>建立规范多元可持续的城市建设投融资机制。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will establish well-regulated, diversified, and sustainable mechanisms for financing urban development. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>坚持节约集约用地，稳妥建立城乡统一的建设用地市场，完善和拓展城乡建设用地增减挂钩试点。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will continue to use land economically and intensively, establish a sound unified market for urban and rural land that may be used for construction purposes, and improve and expand pilot projects to link the amount of urban and rural land granted for these purposes to that of land returned to cultivation. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加强资金和政策支持，扩大新型城镇化综合试点。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will increase funding and policy support for expanding trials in the new type of urbanization.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>提升城镇规划建设水平。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will improve the planning and construction of cities and towns. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>制定实施城市群规划，有序推进基础设施和基本公共服务同城化。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We need to formulate and implement plans for building city clusters, and work systematically to develop integrated infrastructure and basic public services within clusters. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>完善设市标准，实行特大镇扩权增能试点，控制超大城市人口规模，</seg></tuv>
+<tuv xml:lang="en-US"><seg>Standards for designating municipalities will be improved, trial programs will be launched to expand the powers of very large towns and increase their overall carrying capacity, and efforts will be made to bring population growth in megacities under control.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>提升地级市、县城和中心镇产业和人口承载能力，方便农民就近城镇化。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will also raise the industry and population carrying capacity of prefectural cities, county towns, and hub towns to make it easier for people from rural areas nearby to gain urban residency.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>发展智慧城市，保护和传承历史、地域文化。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will develop smart cities and protect historical and local culture, ensuring it is passed on from generation to generation. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加强城市供水供气供电、公交和防洪防涝设施等建设。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will strengthen urban facilities for water, gas, and electricity supplies, public transport, and flood prevention and rainwater control. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>坚决治理污染、拥堵等城市病，让出行更方便、环境更宜居。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will ensure the effective governance of urban maladies such as pollution and traffic congestion to make transportation more convenient and improve the environment for urban living.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>拓展区域发展新空间。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will expand space for promoting development in different regions.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>统筹实施“四大板块”和“三个支撑带”战略组合。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will pursue in a coordinated way the strategy of developing the western region, revitalizing the northeast, boosting the rise of the central region, and ensuring the eastern region takes the lead in development and the strategy of developing the Silk Road Economic Belt, the 21st Century Maritime Silk Road, the Beijing-Tianjin-Hebei region, and the Yangtze Economic Belt.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>在西部地区开工建设一批综合交通、能源、水利、生态、民生等重大项目，</seg></tuv>
+<tuv xml:lang="en-US"><seg>- In the western region, we will launch a number of major projects involving multipurpose transportation systems, energy, water conservancy, the environment, and living standards;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>落实好全面振兴东北地区等老工业基地政策措施，</seg></tuv>
+<tuv xml:lang="en-US"><seg>- In the old industrial bases of the northeast and other parts of China, we will implement policies and measures designed to ensure their full revitalization;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加快中部地区综合交通枢纽和网络等建设，</seg></tuv>
+<tuv xml:lang="en-US"><seg>- In the central region, we will speed up the development of integrated transportation hubs and networks;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>支持东部地区率先发展，</seg></tuv>
+<tuv xml:lang="en-US"><seg>- We will support the eastern region in taking the lead in development;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加大对老少边穷地区支持力度，</seg></tuv>
+<tuv xml:lang="en-US"><seg>- We will increase support to old revolutionary base areas, areas with concentrations of ethnic minorities, border areas, and areas with relatively high incidences of poverty; and</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>完善差别化的区域发展政策。</seg></tuv>
+<tuv xml:lang="en-US"><seg>- We will improve differentiated policies for promoting the development of different regions.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>把“一带一路”建设与区域开发开放结合起来，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will integrate the development of the Silk Road Economic Belt and the 21st Century Maritime Silk Road with the development and opening up of related regions.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加强新亚欧大陆桥、陆海口岸支点建设。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will promote development of the new Eurasian Continental Bridge as well as major coastal and border ports which serve as hubs for the Belt or the Road.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>推进京津冀协同发展，在交通一体化、生态环保、产业升级转移等方面率先取得实质性突破。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will step up coordinated development for the Beijing-Tianjin-Hebei region and ensure that the region takes the lead in making substantive breakthroughs in areas such as integrated transportation, ecological conservation, environmental protection, and industry upgrading and relocation.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>推进长江经济带建设，有序开工黄金水道治理、沿江码头口岸等重大项目，构筑综合立体大通道，建设产业转移示范区，引导产业由东向西梯度转移。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will press ahead with the development of the Yangtze Economic Belt, working step by step to launch major projects including upgrading the area's major waterways and building docks and quays along the Yangtze River to create an integrated, multidimensional transport corridor. Industrial relocation demonstration zones will be built along the belt to guide the orderly relocation of industries from the east to the west. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加强中西部重点开发区建设，深化泛珠等区域合作。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will step up efforts to develop major development zones in the central and western regions and ensure cooperation is deepened in the pan-Pearl River Delta and other regions.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我国是海洋大国，</seg></tuv>
+<tuv xml:lang="en-US"><seg>China is a major maritime country. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>要编制实施海洋战略规划，发展海洋经济，保护海洋生态环境，提高海洋科技水平，加强海洋综合管理，坚决维护国家海洋权益，妥善处理海上纠纷，积极拓展双边和多边海洋合作，向海洋强国的目标迈进。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We need to draw up and implement a strategic maritime plan, develop the marine economy, protect the marine environment, strengthen marine science and technology, strengthen coordinated maritime management, resolutely safeguard China's maritime rights and interests, properly handle maritime disputes, actively expand bilateral and multilateral maritime cooperation, and move closer to achieving the goal of building China into a maritime power.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>推动产业结构迈向中高端。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will move forward in industrial structural upgrading, aiming at a medium-high level.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>制造业是我们的优势产业。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Manufacturing is a traditionally a strong area for Chinese industry. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>要实施“中国制造2025”，坚持创新驱动、智能转型、强化基础、绿色发展，加快从制造大国转向制造强国。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will implement the "Made in China 2025" strategy; seek innovation-driven development; apply smart technologies; strengthen foundations; pursue green development; and redouble our efforts to upgrade China from a manufacturer of quantity to one of quality.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>采取财政贴息、加速折旧等措施，推动传统产业技术改造。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will provide subsidies and accelerate equipment depreciation to push forward the technological upgrading of traditional industries. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>坚持有保有压，化解过剩产能，支持企业兼并重组，在市场竞争中优胜劣汰。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will ensure the development of some industries while restricting the growth of others, cut overcapacity, support business acquisitions and restructuring, and let market competition determine which businesses survive. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>促进工业化和信息化深度融合，开发利用网络化、数字化、智能化等技术，着力在一些关键领域抢占先机、取得突破。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will promote the extensive application of information technologies in industrialization, develop and utilize networking, digitalization, and smart technologies, and work to develop certain key areas first and make breakthroughs in these areas.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>新兴产业和新兴业态是竞争高地。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Emerging industries and new types of businesses are areas of intense competition. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>要实施高端装备、信息网络、集成电路、新能源、新材料、生物医药、航空发动机、燃气轮机等重大项目，把一批新兴产业培育成主导产业。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will launch major projects to develop high-end equipment, information networks, integrated circuits, new energy, new materials, biomedicines, aero engines, and gas turbines, helping a number of emerging industries to become leading ones. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>制定“互联网+”行动计划，推动移动互联网、云计算、大数据、物联网等与现代制造业结合，促进电子商务、工业互联网和互联网金融健康发展，引导互联网企业拓展国际市场。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will develop the "Internet Plus" action plan to integrate the mobile Internet, cloud computing, big data, and the Internet of Things with modern manufacturing, to encourage the healthy development of e-commerce, industrial networks, and Internet banking, and to guide Internet-based companies to increase their presence in the international market. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>国家已设立400亿元新兴产业创业投资引导基金，要整合筹措更多资金，为产业创新加油助力。</seg></tuv>
+<tuv xml:lang="en-US"><seg>In addition to the 40 billion yuan government fund already in place for investment in China's emerging industries, more funds need to be raised for promoting business development and innovation.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>服务业就业容量大，发展前景广。</seg></tuv>
+<tuv xml:lang="en-US"><seg>The service sector can provide an enormous amount of employment opportunities and has vast potential for development. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>要深化服务业改革开放，落实财税、土地、价格等支持政策以及带薪休假等制度，大力发展旅游、健康、养老、创意设计等生活和生产服务业。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will deepen the reform and opening up of the service sector, and implement fiscal, tax, land, and pricing policies to support its development. We will ensure that paid vacations are enforced, and channel great energy into developing tourism, health, elderly care, innovative design, and other better-living and production-related services. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>深化流通体制改革，加强大型农产品批发、仓储和冷链等现代物流设施建设，努力大幅降低流通成本。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will also deepen logistics reform, strengthen the building of modern logistics facilities such as large-scale wholesale, storage, and cold chain facilities for agricultural produce, and work hard to achieve major reductions in logistics costs.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>以体制创新推动科技创新。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will use institutional innovation to drive scientific and technological innovation.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>创新创造关键在人。</seg></tuv>
+<tuv xml:lang="en-US"><seg>It is people who make innovations and create things. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>要加快科技成果使用处置和收益管理改革，扩大股权和分红激励政策实施范围，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will speed up the reform to manage the use and commoditization of and the distribution of profit from scientific and technological advances of public institutions and extend the coverage of policies which allow for incentive mechanisms for innovation based on shares and dividends.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>完善科技成果转化、职务发明法律制度，使创新人才分享成果收益。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Legislation on the commercialization of research and development deliverables and on-the-job inventions should be improved so that inventors can enjoy a share of the returns on their inventions.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>制定促进科研人员流动政策，改革科技评价、职称评定和国家奖励制度，推进科研院所分类改革。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will formulate policies for encouraging the flow of researchers and engineers, reform the systems for assessing their achievements, for appraising them for the conferral of professional titles, and for granting national awards, and reform research institutions according to their functions. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>引进国外高质量人才和智力。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work to attract high-caliber foreign professionals and bring in other expertise from overseas.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>深入实施知识产权战略行动计划，坚决打击侵权行为，切实保护发明创造，让创新之树枝繁叶茂。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will fully implement the action plan for carrying out the national strategy on intellectual property rights, crack down on infringements, and ensure inventions and creative work are thoroughly protected to keep innovation thriving.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>企业是技术创新的主体。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Enterprises play a leading role in technological innovation. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>要落实和完善企业研发费用加计扣除、高新技术企业扶持等普惠性政策，鼓励企业增加创新投入。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will implement and improve preferential policies, such as extra tax deductions for research and development costs and policies that support new- and high-technology enterprises, so as to encourage enterprises to increase their spending on innovation. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>支持企业更多参与重大科技项目实施、科研平台建设，推进企业主导的产学研协同创新。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will encourage enterprise involvement in implementing major science and technology projects and building research platforms, and promote collaborative innovation by bringing together enterprises, academia, and research institutes, with enterprises playing the leading role.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>大力发展众创空间，增设国家自主创新示范区，办好国家高新区，发挥集聚创新要素的领头羊作用。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work hard to develop the right environment for creativity, establishing more national innovation demonstration zones, ensuring the smooth functioning of new- and high-technology national development zones, and enabling them to play a leading role in boosting innovation. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>中小微企业大有可为，要扶上马、送一程，使“草根”创新蔚然成风、遍地开花。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Medium, small, and micro businesses can accomplish great things. We need to give them a leg up to get them going. With these efforts, China's grassroots innovation can sprout up and grow strong, bringing flowers of creation to every field.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>提高创新效率重在优化科技资源配置。</seg></tuv>
+<tuv xml:lang="en-US"><seg>To make innovation deliver, effective allocation of science and technology resources is crucial. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>要改革中央财政科技计划管理方式，建立公开统一的国家科技管理平台。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We need to reform the management of science and technology plans funded by the central government to establish an open and unified national science and technology management platform. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>政府重点支持基础研究、前沿技术和重大关键共性技术研究，鼓励原始创新，加快实施国家科技重大项目，</seg></tuv>
+<tuv xml:lang="en-US"><seg>With the focus on supporting basic research, research in cutting-edge technologies, and key technologies that have a broad application, the government will encourage original innovation and move faster to launch major national science and technology projects.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>向社会全面开放重大科研基础设施和大型科研仪器。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will enable open access to the country's major science and research infrastructure facilities as well as large-scale or costly research equipment. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>把亿万人民的聪明才智调动起来，就一定能够迎来万众创新的浪潮。</seg></tuv>
+<tuv xml:lang="en-US"><seg>By giving free rein to the talent and ingenuity of the Chinese people, we will welcome in a new high tide of popular innovation.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>五、持续推进民生改善和社会建设</seg></tuv>
+<tuv xml:lang="en-US"><seg>V. Making Sustained Efforts to Improve Living Standards and Promote Social Development</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>立国之道，惟在富民。</seg></tuv>
+<tuv xml:lang="en-US"><seg>The only way to build a country is to enrich its people. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>要以增进民生福祉为目的，加快发展社会事业，改革完善收入分配制度，千方百计增加居民收入，促进社会公平正义与和谐进步。</seg></tuv>
+<tuv xml:lang="en-US"><seg>With increasing people's quality of life as our objective, we will accelerate the development of social programs, reform and improve the income distribution system, do everything possible to increase people's incomes, and promote social equity, justice, harmony, and progress.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>着力促进创业就业。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work hard to promote business development and increase employment. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>坚持就业优先，以创业带动就业。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will continue to give top priority to employment and the creation of jobs by encouraging entrepreneurship. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>今年高校毕业生749万人，为历史最高。</seg></tuv>
+<tuv xml:lang="en-US"><seg>This year, the number of college graduates will reach 7.49 million, a record high. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>要加强就业指导和创业教育，落实高校毕业生就业促进计划，鼓励到基层就业。实施好大学生创业引领计划，支持到新兴产业创业。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We need to strengthen employment guidance and education on starting up in business; implement the plan to help college graduates find jobs and encourage them to look to the community level to find employment; and carry out the plan to guide university students toward starting their own businesses and support them in creating start-ups in emerging industries.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>做好结构调整、过剩产能化解中失业人员的再就业工作。统筹农村转移劳动力、城镇困难人员、退役军人就业，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work to help people who have lost their jobs due to structural adjustments or measures to address overcapacity to find new employment, and coordinate efforts to ensure employment can be found for people who move from rural to urban areas to find work, vulnerable urban residents who have difficulty finding jobs, and decommissioned military personnel. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>实施农民工职业技能提升计划，落实和完善失业保险支持企业稳定就业岗位政策。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will put into effect the plan on providing vocational training for migrant workers, and implement and improve the unemployment insurance policy on supporting enterprises that keep people in their jobs. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>全面治理拖欠农民工工资问题，健全劳动监察和争议处理机制，让法律成为劳动者权益的守护神。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will draw on comprehensive governance to deal with the "missing" or delayed wages of migrant workers, improve the mechanisms for supervising the handling of labor issues and disputes, and ensure the law fully functions as the protector of the rights and interests of anyone in employment.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加强社会保障和增加居民收入。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will strengthen social security and increase individual income.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>企业退休人员基本养老金标准提高10%。</seg></tuv>
+<tuv xml:lang="en-US"><seg>The basic pension benefits for enterprise retirees will be increased by 10%. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>城乡居民基础养老金标准统一由55元提高到70元。</seg></tuv>
+<tuv xml:lang="en-US"><seg>The monthly basic pension benefits for rural and non-working urban residents will be uniformly raised from 55 yuan to 70 yuan per person. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>推进城镇职工基础养老金全国统筹。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work to place the basic pensions of workers in urban areas under unified national management. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>降低失业保险、工伤保险等缴费率。</seg></tuv>
+<tuv xml:lang="en-US"><seg>The premiums will be lowered for insurance schemes such as the unemployment insurance scheme and the workplace injury insurance scheme. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>完善最低工资标准调整机制。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will improve the mechanism for adjusting minimum wages. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>落实机关事业单位养老保险制度改革措施，同步完善工资制度，对基层工作人员给予政策倾斜。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will take steps to reform the pension system for employees of Party and government offices and public institutions and at the same time improve their pay systems, and we will make policies weighted toward benefiting government and Party employees at the community level. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>在县以下机关建立公务员职务和职级并行制度。</seg></tuv>
+<tuv xml:lang="en-US"><seg>A system will be instituted under which public servants of Party and government offices at and below the county level can be promoted in terms of both their post and their rank, and are paid accordingly.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加强重特大疾病医疗救助，全面实施临时救助制度，让遇到急难特困的群众求助有门、受助及时。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will increase aid for treating major and serious diseases and implement the temporary-assistance scheme nationwide so that people with urgent or special needs will have somewhere to go for support, and will be able to get that support straight away. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>对困境儿童、高龄和失能老人、重度和贫困残疾人等特困群体，健全福利保障制度和服务体系。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will develop sound welfare and service systems for vulnerable groups including children living in difficult circumstances, the very elderly, elderly people with disabilities, people with serious disabilities, and people with disabilities who are living in poverty. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>继续提高城乡低保水平，提升优抚对象抚恤和生活补助标准。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will continue to raise subsistence allowances for rural and urban residents and increase benefits and living allowances for entitled groups. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>提高工资和保障标准等政策受益面广，各级政府一定要落实到位。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Policies for increasing wages and social security benefits have a bearing on a great number of people; their implementation by governments at all levels must be completely satisfactory. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>民之疾苦，国之要事，我们要竭尽全力，坚决把民生底线兜住兜牢。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Ensuring people's wellbeing is a top priority for the government, and we must do all we can to make sure that basic needs are met.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>促进教育公平发展和质量提升。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will promote fair access to and strengthen the quality of education.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>教育是今天的事业、明天的希望。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Education is an endeavor for today, but a source of hope for tomorrow. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>要坚持立德树人，增强学生的社会责任感、创新精神、实践能力，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We need to foster virtue through education and ensure that students develop a strong sense of social responsibility, innovative thinking, and an ability to put ideas into practice.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>培养中国特色社会主义建设者和接班人。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We should ensure that students strengthen their dedication to socialism with Chinese characteristics. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>深化省级政府教育统筹改革、高等院校综合改革和考试招生制度改革。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will deepen the reform to expand the responsibility of provincial-level governments over local education, the comprehensive reform of colleges and universities, as well as the reform of the school examination and enrollment systems.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加快义务教育学校标准化建设，改善薄弱学校和寄宿制学校基本办学条件。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will move more quickly to help all schools providing compulsory education to meet standards, and improve basic conditions in boarding schools and schools that are poorly built and operated. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>落实农民工随迁子女在流入地接受义务教育政策，完善后续升学政策。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will implement the policy of enabling the children of migrant workers to receive compulsory education in the cities and towns where they and their parents live and improve policies that enable them to continue on into secondary and college education.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>全面推进现代职业教育体系建设。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work to comprehensively promote the development of a modern vocational education system. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>引导部分地方本科高校向应用型转变，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will guide a number of local undergraduate institutions to transform themselves into applied colleges.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>通过对口支援等方式支持中西部高等教育发展，继续提高中西部地区和人口大省高考录取率。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will support the development of higher education in the central and western regions by offering them assistance through pairing programs, and continue to raise the admission rate for those taking the college entrance exams in the central and western regions and in provinces with larger populations. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>建设世界一流大学和一流学科。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work to develop world-class universities and disciplines.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加强特殊教育、学前教育、继续教育和民族地区各类教育。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will strengthen education for those with special learning needs, preschool education, continuing education, and all types of education in areas with concentrations of ethnic minorities. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>促进民办教育健康发展。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work to promote the healthy development of privately run educational institutions. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>为切实把教育事业办好，我们要保证投入，花好每一分钱，</seg></tuv>
+<tuv xml:lang="en-US"><seg>In order to provide good education, we must guarantee funding and ensure that every yuan is well spent.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>畅通农村和贫困地区学子纵向流动的渠道，让每个人都有机会通过教育改变自身命运。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We should clear any obstructions to upwards mobility for students from rural or poor areas, and ensure that each and every person has the opportunity to change their life through education.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加快健全基本医疗卫生制度。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work more quickly to improve the basic medical and healthcare systems.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>完善城乡居民基本医保，财政补助标准由每人每年320元提高到380元，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will improve basic medical insurance for rural and non-working urban residents, and increase the annual government subsidy for this insurance from 320 yuan to 380 yuan per person.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>基本实现居民医疗费用省内直接结算，稳步推行退休人员医疗费用跨省直接结算。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will basically complete the task of enabling on-the-spot settlement of medical expenses incurred anywhere within the provincial-level administrative area where one's insurance is registered, and steadily work toward enabling retirees to have their medical expenses settled on the spot in whichever provincial-level administrative area they are living. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>全面实施城乡居民大病保险制度。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will fully implement the major disease insurance scheme for rural and non-working urban residents.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>深化基层医疗卫生机构综合改革，加强全科医生制度建设，完善分级诊疗体系。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work to deepen the comprehensive reform of community-level medical and healthcare institutions, strengthen the general practitioner system, and improve the system of tiered diagnosis and treatment. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>全面推开县级公立医院综合改革，在100个地级以上城市进行公立医院改革试点，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will fully implement the comprehensive reform of county-level public hospitals, and trial public hospital reform in 100 cities at or above the prefecture level.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>破除以药补医，降低虚高药价，合理调整医疗服务价格，通过医保支付等方式平衡费用，努力减轻群众负担。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will put a stop to the practice of charging more for medicines to make up for low prices for medical services, lower extortionate prices on medicines, make appropriate adjustments to medical service prices, and take measures such as reforming medical insurance payouts to control costs of medical services, thereby lightening the burden that medical expenses place on people.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>鼓励医生到基层多点执业，发展社会办医。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will encourage doctors to practice in community-level clinics in addition to their regular practice and help the development of nongovernmental hospitals. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>开展省级深化医改综合试点。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will launch comprehensive pilot projects for deepening medical reform at the provincial level. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加快建立医疗纠纷预防调解机制。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will move faster in setting up mechanisms for preempting and mediating medical disputes. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>人均基本公共卫生服务经费补助标准由35元提高到40元，增量全部用于支付村医的基本公共卫生服务，方便几亿农民就地就近看病就医。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will increase the annual subsidy for government expenditures on basic public health services from 35 yuan to 40 yuan per capita, with the entire additional sum to be used for paying for rural doctors to provide basic public health services; this will allow large numbers of rural residents to enjoy better access to local medical services.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加强重大疾病防控。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will strengthen the prevention and control of major diseases. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>积极发展中医药和民族医药事业。推进计划生育服务管理改革。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will actively develop traditional Chinese medicine and the traditional medicine of ethnic minorities, and advance the reform of family planning services and the way they are managed. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>健康是群众的基本需求，我们要不断提高医疗卫生水平，打造健康中国。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Good health is a basic public necessity, so we must work consistently to raise the standard of medical and healthcare services to create a healthy China.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>让人民群众享有更多文化发展成果。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will enable people to enjoy more of the fruits of cultural development.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>文化是民族的精神命脉和创造源泉。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Culture is the lifeblood of a nation and a source of innovation. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>要践行社会主义核心价值观，弘扬中华优秀传统文化。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will put into practice core socialist values and promote fine traditional Chinese culture. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>繁荣发展哲学社会科学，发展文学艺术、新闻出版、广播影视、档案等事业，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will encourage philosophy and the social sciences to flourish and promote the development of literature and art; the press and publishing; radio, television, and film; archiving; and other cultural programs.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>重视文物、非物质文化遗产保护。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work to protect cultural relics and intangible cultural heritage.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>提供更多优秀文艺作品，倡导全民阅读，建设书香社会。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will ensure that more outstanding works of literature and art are created for the people to enjoy, and encourage a love of reading in all our people to build a nation of avid readers. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>逐步推进基本公共文化服务标准化均等化，扩大公共文化设施免费开放范围，发挥基层综合性文化服务中心作用。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will make steady progress in providing basic public cultural services in a standard and equitable way, allow free admission to more public cultural facilities, and ensure multipurpose cultural service centers play a key role in local communities.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>深化文化体制改革，促进传统媒体与新兴媒体融合发展。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will deepen the structural reform of the cultural sector and promote the integrated development of traditional and emerging media. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>拓展中外人文交流，加强国际传播能力建设。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will expand cultural exchanges with other countries and improve our ability to communicate effectively with international audiences. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>发展全民健身、竞技体育和体育产业，做好2022年冬奥会申办工作。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will develop public fitness programs, competitive sports, and the sports industry, and work toward putting in a strong bid to host the 2022 Winter Olympics.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加强和创新社会治理。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will strengthen and make innovations in social governance.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>深化社会组织管理制度改革，加快行业协会商会与行政机关脱钩。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will deepen reform of the management of social organizations, and accelerate efforts to untie industry associations and chambers of commerce from any connections they may have with the government. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>支持群团组织依法参与社会治理，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will support the participation of popular organizations in social governance in accordance with the law.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>发展专业社会工作、志愿服务和慈善事业。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will develop specialized social work, volunteer services, and charities. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>鼓励社会力量兴办养老设施，发展社区和居家养老。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will encourage the opening of nongovernmental elderly care facilities, and develop community-based and at-home elderly care.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>为农村留守儿童、妇女、老人提供关爱服务，建立未成年人社会保护制度。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will provide support and services for children, women, and older people who remain in rural areas while their family members move to work in urban areas, and establish a system of social protection for minors. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>提高公共突发事件防范处置和防灾救灾减灾能力。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will improve our ability to prevent and handle public emergencies and to prevent, respond to, and mitigate disasters. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>做好地震、气象、测绘、地质等工作。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will ensure that work in seismology, meteorology, surveying, mapping, and geology is all carried out to good effect.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>深入开展法治宣传教育，加强人民调解工作，完善法律援助制度，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will make intensive efforts to increase public awareness of the rule of law, improve the effectiveness of people's mediation, and improve the system of legal aid.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>落实重大决策社会稳定风险评估机制，有效预防和化解社会矛盾。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will ensure that potential risks which major policy decisions may pose to social stability are fully assessed so as to effectively prevent and resolve social conflicts. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>把信访纳入法治轨道，及时就地解决群众合理诉求。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will ensure that the handling of public complaints filed through letters and visits is brought into line with the rule of law, and see to it that all justified complaints and demands are resolved promptly and locally.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>深化平安中国建设，健全立体化社会治安防控体系，依法惩治暴恐、黄赌毒、邪教、走私等犯罪行为，发展和规范网络空间，确保国家安全和公共安全。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will uphold law and order in China; improve the multidimensional system for crime prevention and control; punish violent terrorism, pornography, gambling, drug abuse and trafficking, cult activity, smuggling, and other crimes in accordance with the law; develop and regulate cyberspace; and ensure national and public security. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>人的生命最为宝贵，要采取更坚决措施，全方位强化安全生产，全过程保障食品药品安全。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Life is priceless; we must take stronger measures to ensure workplace safety in all fields, and ensure food and medicine safety throughout the production process.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>打好节能减排和环境治理攻坚战。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will fight to win the battle of conserving energy, reducing emissions, and improving the environment.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>环境污染是民生之患、民心之痛，</seg></tuv>
+<tuv xml:lang="en-US"><seg>Environmental pollution is a blight on people's quality of life and a trouble that weighs on their hearts. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>要铁腕治理。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We must fight it with all our might. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>今年，二氧化碳排放强度要降低3.1%以上，化学需氧量、氨氮排放都要减少2%左右，二氧化硫、氮氧化物排放要分别减少3%左右和5%左右。</seg></tuv>
+<tuv xml:lang="en-US"><seg>This year, we will cut the intensity of carbon dioxide by at least 3.1%, reduce both chemical oxygen demand and ammonia nitrogen emissions by around 2%, and reduce emissions of sulfur dioxide and nitrogen oxides by around 3% and 5% respectively.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>深入实施大气污染防治行动计划，实行区域联防联控，推动燃煤电厂超低排放改造，促进重点区域煤炭消费零增长。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will fully implement the action plan for preventing and controlling air pollution; carry out coordinated inter-regional prevention and control efforts; upgrade coal-burning power plants to achieve ultra-low emissions; and strive for zero-growth in the consumption of coal in key areas of the country.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>推广新能源汽车，治理机动车尾气，提高油品标准和质量，在重点区域内重点城市全面供应国五标准车用汽柴油。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will promote the use of new-energy vehicles, reduce vehicle exhaust emissions, raise the national production standards for and improve the quality of fuel, and provide motor gasoline and diesel fuel that meets National-V standards to all key cities in key areas. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>2005年底前注册营运的黄标车要全部淘汰。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will remove from the roads all high-emission commercial vehicles registered before the end of 2005.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>积极应对气候变化，扩大碳排放权交易试点。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will actively respond to climate change and expand the trials for trading carbon emissions rights. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>实施水污染防治行动计划，加强江河湖海水污染、水污染源和农业面源污染治理，实行从水源地到水龙头全过程监管。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will implement the action plan for preventing and controlling water pollution; strengthen control over pollution in rivers, lakes, seas, water pollution sources, and pollution from nonpoint agricultural sources; and ensure the safety of drinking water by carrying out oversight over the whole process, from the source to the tap.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>推行环境污染第三方治理。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will introduce third party governance in the handling of environmental pollution. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>做好环保税立法工作。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work on the legislation for environmental protection tax. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我们一定要严格环境执法，对偷排偷放者出重拳，让其付出沉重的代价；对姑息纵容者严问责，使其受到应有的处罚。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We must strictly enforce environmental laws and regulations; crack down on those guilty of creating illegal emissions and ensure they pay a heavy price for such offenses; and hold those who allow illegal emissions to account, punishing them accordingly.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>能源生产和消费革命，关乎发展与民生。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Revolution in energy generation and consumption is vital to any country's development and to the wellbeing of its people. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>要大力发展风电、光伏发电、生物质能，积极发展水电，安全发展核电，开发利用页岩气、煤层气。</seg></tuv>
+<tuv xml:lang="en-US"><seg>In China, we will put great weight behind the development of wind power, photovoltaic power, and biomass energy, work actively to develop hydropower, stress safety in developing nuclear power, and exploit and utilize shale gas and coal seam gas.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>控制能源消费总量，加强工业、交通、建筑等重点领域节能。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will set a ceiling on total energy consumption and strengthen energy conservation in key areas such as manufacturing, transportation, and construction. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>积极发展循环经济，大力推进工业废物和生活垃圾资源化利用。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work hard to develop a circular economy and promote the recovery of resources from industrial and household waste. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我国节能环保市场潜力巨大，</seg></tuv>
+<tuv xml:lang="en-US"><seg>There is enormous potential in China's market for energy conservation and environmental protection;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>要把节能环保产业打造成新兴的支柱产业。</seg></tuv>
+<tuv xml:lang="en-US"><seg>we will develop the energy conservation and environmental protection industry into a new pillar of the economy.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>森林草原、江河湿地是大自然赐予人类的绿色财富，必须倍加珍惜。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Forests, grasslands, rivers, and wetlands are ecological riches and gifts of nature that we must take greater care to cherish. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>要推进重大生态工程建设，拓展重点生态功能区，办好生态文明先行示范区，开展国土江河综合整治试点，扩大流域上下游横向补偿机制试点，保护好三江源。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will carry out major ecological projects; extend key eco-function zones; work to establish zones that demonstrate best practices for promoting a sound ecology; carry out pilot projects to improve the overall condition of rivers; expand the trial of having localities situated on the upper and lower reaches of river basins compensate each other for their impact on water quality; and ensure the sources of the Yangtze, Yellow, and Lancang rivers are effectively preserved. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>扩大天然林保护范围，有序停止天然林商业性采伐。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will expand the areas of natural forests under protection, and work in a planned way to put a stop to commercial logging in these forests. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>今年新增退耕还林还草1000万亩，造林9000万亩。</seg></tuv>
+<tuv xml:lang="en-US"><seg>This year, we will return an additional 666,667 hectares of marginal farmland back to forest or grassland, and afforest 6 million more hectares of land.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>生态环保贵在行动、成在坚持，</seg></tuv>
+<tuv xml:lang="en-US"><seg>In ecological protection, progress comes only through action, and success only through persistence.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我们必须紧抓不松劲，一定要实现蓝天常在、绿水长流、永续发展。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We must take a firm and unrelenting approach in this work, to ensure we always have blue skies, lucid waters, and sustainable development.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>六、切实加强政府自身建设</seg></tuv>
+<tuv xml:lang="en-US"><seg>VI. Improving Government</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我们要全面推进依法治国，加快建设法治政府、创新政府、廉洁政府和服务型政府，增强政府执行力和公信力，促进国家治理体系和治理能力现代化。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will fully promote the law-based governance of the country; move more swiftly to build an innovative, clean, service-oriented rule of law government; enhance the government's administrative capacity and public credibility; and modernize China's governance system and capacity for governance.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>坚持依宪施政，依法行政，把政府工作全面纳入法治轨道。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will exercise governance in accordance with the Constitution and other laws and bring all government work in line with the rule of law.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>宪法是我们根本的活动准则，</seg></tuv>
+<tuv xml:lang="en-US"><seg>The Constitution is the fundamental guide on which our every action should be based;</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>各级政府及其工作人员都必须严格遵守。</seg></tuv>
+<tuv xml:lang="en-US"><seg>governments at all levels and their employees must faithfully observe it. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>要尊法学法守法用法，依法全面履行职责，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We must respect, study, abide by, and apply the law, and fully perform our duties in accordance with it.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>所有行政行为都要于法有据，任何政府部门都不得法外设权。</seg></tuv>
+<tuv xml:lang="en-US"><seg>All government activities must have a legal basis, and no government body may assume any power which is not provided for by law. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>深化行政执法体制改革，严格规范公正文明执法，加快推进综合执法，全面落实行政执法责任制。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will deepen reform of the administrative law enforcement system, enforce the law in a strict, well-regulated, impartial, and appropriate manner, press ahead with coordinated law enforcement, and fully implement the accountability system for administrative law enforcement. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>一切违法违规的行为都要追究，一切执法不严不公的现象都必须纠正。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We must see to it that all violations of laws and regulations are investigated and prosecuted, and all failures to strictly and impartially enforce the law are rectified.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>坚持创新管理，强化服务，着力提高政府效能。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will develop new ways of conducting regulation, strengthen services, and work to improve government performance.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>提供基本公共服务尽量采用购买服务方式，第三方可提供的事务性管理服务交给市场或社会去办。</seg></tuv>
+<tuv xml:lang="en-US"><seg>In basic public services, we need to do all we can to use service procurement as the means of provision, and routine services that can be provided by a third party should be handed over to the market or society. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>积极推进决策科学化民主化，重视发挥智库作用。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work to ensure decisions are made in a sound and democratic way and place importance on the role of think tanks. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>全面实行政务公开，推广电子政务和网上办事。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will fully put into practice transparency in government affairs and promote the use of e-government and online administration. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>各级政府要自觉接受同级人大及其常委会的监督，接受人民政协的民主监督，认真听取人大代表、民主党派、工商联、无党派人士和各人民团体的意见。</seg></tuv>
+<tuv xml:lang="en-US"><seg>All levels of governments must actively accept oversight by people's congresses and their standing committees at their respective administrative level; accept the democratic oversight of CPPCC committees; and earnestly solicit the views of deputies to people's congresses, non-CPC parties, federations of industry and commerce, public figures without party affiliation, and people's organizations. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我们的所有工作都要全面接受人民的监督，充分体现人民的意愿。</seg></tuv>
+<tuv xml:lang="en-US"><seg>All our work must be subject to the people's oversight and be done in the way they expect it to be done.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>坚持依法用权，倡俭治奢，深入推进党风廉政建设和反腐败工作。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will exercise power in accordance with the law, encourage thrift and oppose extravagance, and work painstakingly to improve Party conduct, promote integrity, and fight corruption.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>认真落实党中央八项规定精神，坚持不懈纠正“四风”，继续严格执行国务院“约法三章”。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work conscientiously to implement the CPC Central Committee's eight-point decision on improving Party and government conduct; work tirelessly to oppose formalism, bureaucratism, hedonism, and extravagance; and continue to strictly enforce the State Council's three-point decision on curbing government spending. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>腐败现象的一个共同特征就是权力寻租，要以权力瘦身为廉政强身，紧紧扎住制度围栏，坚决打掉寻租空间，努力铲除腐败土壤。</seg></tuv>
+<tuv xml:lang="en-US"><seg>As rent-seeking is a feature common to all types of corruption, we will shed powers to make government cleaner, truss up the institutional fencing, and resolutely eliminate any room for rent-seeking, thus eradicating the breeding grounds of corruption. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加强行政监察，发挥审计监督作用，对公共资金、公共资源、国有资产严加监管。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will intensify government supervision, make full use of auditing oversight, and strictly monitor public funds, public resources, and state-owned assets. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>始终保持反腐高压态势，对腐败分子零容忍、严查处。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Our tough stance on corruption is here to stay; our tolerance for corruption is zero, and anyone guilty of corruption will be dealt with seriously. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>对腐败行为，无论出现在领导机关，还是发生在群众身边，都必须严加惩治。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will see to it that every instance of corruption, should it be committed higher up or lower down, is severely punished.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>坚持主动作为，狠抓落实，切实做到勤政为民。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will take an active approach to our work, focus on implementation, and work with diligence for the people.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>经济发展进入新常态，精神面貌要有新状态。</seg></tuv>
+<tuv xml:lang="en-US"><seg>China's economic development has entered a new normal, meaning we must adopt a new attitude. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>广大公务员特别是领导干部要始终把为人民谋发展增福祉作为最大责任，始终把现代化建设使命扛在肩上，始终把群众冷暖忧乐放在心头。</seg></tuv>
+<tuv xml:lang="en-US"><seg>All public servants, especially officials, should always treat it as their greatest responsibility to promote development that benefits the people, carry the task of modernization on their shoulders, and keep the wellbeing of the people at the forefront of their minds. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>各级政府要切实履行职责，狠抓贯彻落实，创造性开展工作。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Governments at all levels must fully perform their functions and responsibilities, ensure thorough implementation, and be creative in their work. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>完善政绩考核评价机制，对实绩突出的，要大力褒奖；对工作不力的，要约谈诫勉；对为官不为、懒政怠政的，要公开曝光、坚决追究责任。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work to improve the mechanisms for assessing performance, and commend those who perform well, admonish those who do not, and expose and hold to account those who are indolent, sloppy, or neglectful of their duties.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>各位代表！</seg></tuv>
+<tuv xml:lang="en-US"><seg>Fellow Deputies,</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我国是统一的多民族国家，</seg></tuv>
+<tuv xml:lang="en-US"><seg>China is a unified country of many ethnic groups.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>巩固和发展平等团结互助和谐的社会主义民族关系，是全国各族人民的根本利益和共同责任。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Working to enhance and develop socialist ethnic relations featuring equality, unity, mutual assistance, and harmony is the joint responsibility and in the fundamental interests of everyone.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>要坚持和完善民族区域自治制度，加大对欠发达的民族地区支持力度，扶持人口较少民族发展，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will uphold and improve the system of regional ethnic autonomy, increase support for underdeveloped areas with concentrations of ethnic minorities, and aid the growth of ethnic minorities with smaller populations.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>推进兴边富民行动，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work to boost development in border regions and improve living standards there. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>保护和发展少数民族优秀传统文化及特色村镇，促进各民族交往交流交融。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will see to it that the fine traditional culture of our ethnic minorities and distinctively ethnic villages and towns are preserved and developed, and promote interaction, communication, and integration between ethnic groups.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>组织好西藏自治区成立50周年和新疆维吾尔自治区成立60周年庆祝活动。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work to successfully mark the 50th anniversary of the founding of the Tibet Autonomous Region and the 60th anniversary of the founding of the Xinjiang Uygur Autonomous Region. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>各族人民和睦相处、和衷共济、和谐发展，中华民族大家庭一定会更加繁荣昌盛、幸福安康。</seg></tuv>
+<tuv xml:lang="en-US"><seg>With people of all our ethnic groups living together as one, sharing in a common cause, and developing together in harmony, the big family of the Chinese nation will enjoy greater prosperity, peace, and happiness.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我们要全面贯彻党的宗教工作基本方针，促进宗教关系和谐，维护宗教界合法权益，发挥宗教界人士和信教群众在促进经济社会发展中的积极作用。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will fully implement the Party's basic policy on religion, promote harmonious relations between religions, protect the legitimate rights and interests of the religious community, and ensure that religious leaders and believers play a positive role in promoting economic and social development.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我们要更好发挥海外侨胞和归侨侨眷参与祖国现代化建设、促进祖国和平统一、推进中外交流合作的独特作用，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We need to ensure that overseas Chinese nationals, overseas Chinese nationals who have returned to China, and the relatives of overseas Chinese nationals who themselves live in China can all perform better the unique role they have to play in modernizing China, advancing its peaceful reunification, and promoting exchange and cooperation between China and other countries.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>使海内外中华儿女的向心力不断增强。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We need to strengthen the bonds of attachment and affection of all Chinese, whether at home or overseas, to our motherland.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>各位代表！</seg></tuv>
+<tuv xml:lang="en-US"><seg>Fellow Deputies,</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>建设巩固的国防和强大的军队，是维护国家主权、安全和发展利益的根本保障。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Building a solid national defense and strong armed forces is fundamental to safeguarding China's sovereignty, security, and developmental interests. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>要紧紧围绕党在新形势下的强军目标，坚持党对军队绝对领导的根本原则，统筹抓好各方面各领域军事斗争准备，保持边防海防空防稳定。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We must keep to the Party's goal of strengthening the armed forces under the new conditions, uphold the fundamental principle of the Party's absolute leadership over the armed forces, strengthen our efforts in all areas in a coordinated way to maintain military preparedness, and ensure border, coastal, and air defense stability. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>全面加强现代后勤建设，加大国防科研和高新技术武器装备建设力度，发展国防科技工业。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will comprehensively strengthen modern logistics, step up national defense research and development of new- and high-technology weapons and equipment, and develop defense-related science and technology industries.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>深化国防和军队改革，提高国防和军队建设法治化水平。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will deepen the reform of national defense and the armed forces, and increase the level of rule of law in their development. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加强现代化武装警察力量建设。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will strengthen efforts to modernize the armed police forces. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>增强全民国防意识，推进国防动员和后备力量建设。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will raise public awareness of the importance of national defense, and improve mobilization for national defense and the building of reserve forces. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>坚持国防建设和经济建设协调发展，促进军民融合深度发展。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will coordinate national defense development and economic development and deepen the integration of the military and civil sectors. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>各级政府要始终如一地关心和支持国防和军队建设，坚定不移地巩固和促进军政军民团结。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Governments at all levels must always take an active interest in and support the strengthening of our national defense and armed forces, and remain committed to consolidating and increasing the unity between the government and the armed forces and between the people and the armed forces.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>各位代表！</seg></tuv>
+<tuv xml:lang="en-US"><seg>Fellow Deputies,</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我们将坚定不移地贯彻“一国两制”、“港人治港”、“澳人治澳”、高度自治方针，严格依照宪法和基本法办事。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will steadfastly carry out the principles of "one country, two systems," the people of Hong Kong governing Hong Kong, the people of Macao governing Macao, and both regions enjoying a high degree of autonomy, and we will strictly comply with the Constitution and the basic laws of these two regions. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>全力支持香港、澳门特别行政区行政长官和政府依法施政，发展经济，改善民生，推进民主，促进和谐。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will give full support to the chief executives and governments of the Hong Kong and Macao special administrative regions in governing their regions in accordance with the law, growing the economy, improving people's standard of living, advancing democracy, and promoting social harmony.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加强内地与港澳各领域交流合作，继续发挥香港、澳门在国家改革开放和现代化建设中的特殊作用。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will ensure that the mainland and the two regions develop more exchange and cooperation in all fields, and that the two regions continue to play their special role in the country's reform, opening up, and modernization. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我们坚信，有中央政府一以贯之的大力支持，不断提升港澳自身竞争力，香港、澳门就一定能够保持长期繁荣稳定。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We are confident that with the central government continuing its strong support for Hong Kong and Macao, and with continuous improvements to their own competitiveness, these two regions will enjoy long-term prosperity and stability.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我们将坚持对台工作大政方针，巩固两岸坚持“九二共识”、反对“台独”的政治基础，保持两岸关系和平发展正确方向。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will adhere to our policies concerning Taiwan and work to strengthen the political foundation of both sides of the Straits, upholding the 1992 Consensus and opposing the independence of Taiwan, and keep cross-Straits relations on the right course in peaceful development. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>努力推进两岸协商对话，推动经济互利融合，加强基层和青少年交流。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will strive to make progress in discussion and dialogue between the two sides of the Straits, advance cross-Straits economic integration for mutual benefit, and promote local and youth exchanges. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>依法保护台湾同胞权益，让更多民众分享两岸关系和平发展成果。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will protect the rights and interests of our compatriots from Taiwan in accordance with the law, and see that the fruits of peaceful growth of cross-Straits relations benefit more people. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我们期待两岸同胞不断增进了解互信，密切骨肉亲情，拉近心理距离，为实现祖国和平统一贡献力量。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We hope that our compatriots on both sides of the Straits will continue to strengthen mutual understanding and trust, deepen their bonds of kinship, bring hearts and minds closer together, and work together to achieve China's peaceful reunification. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我们坚信，两岸关系和平发展是不可阻挡、不可逆转的历史潮流。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We are firmly confident that the peaceful growth of cross-Straits relations is a historical trend that can be neither resisted nor reversed.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>各位代表！</seg></tuv>
+<tuv xml:lang="en-US"><seg>Fellow Deputies,</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我们将继续高举和平发展合作共赢旗帜，统筹国内国际两个大局，始终不渝走和平发展道路，始终不渝奉行互利共赢开放战略，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will continue to hold high the banner of peace, development, cooperation, and mutual benefit, and coordinate China's domestic and international efforts. We remain fully committed to peaceful development and pursuing a win-win strategy of opening up. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>坚决维护国家主权安全发展利益，维护我国公民和法人海外合法权益，</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will resolutely safeguard China's sovereignty, security, and developmental interests, and protect the legitimate rights and interests of Chinese citizens and legal persons overseas. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>推动建立以合作共赢为核心的新型国际关系。深化与各大国战略对话和务实合作，构建健康稳定的大国关系框架。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will help develop a new type of international relations based on mutual benefit and cooperation, work to deepen strategic dialogue and practical cooperation with other major countries, and work to build a sound and stable framework for major-country relations. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>全面推进周边外交，打造周边命运共同体。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work comprehensively to make progress in neighborhood diplomacy and work to create a community with a common future with our neighbors. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>加强同发展中国家团结合作，维护共同利益。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will work to strengthen unity and cooperation with other developing countries and protect our common interests. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>积极参与国际多边事务，推动国际体系和秩序朝着更加公正合理方向发展。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will actively participate in international and multilateral affairs and work to make both the international system and the international order more just and equitable. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>办好纪念世界反法西斯战争和中国人民抗日战争胜利70周年相关活动，同国际社会共同维护二战胜利成果和国际公平正义。</seg></tuv>
+<tuv xml:lang="en-US"><seg>We will host events to commemorate the 70th anniversary of the victory in the world's war against fascism and in the Chinese people's War of Resistance against Japanese Aggression, and work together with other members of the international community to uphold the victory of World War II and international justice. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>我们愿与世界各国携手并肩，维护更加持久的和平，建设更加繁荣的世界。</seg></tuv>
+<tuv xml:lang="en-US"><seg>China is willing to work hand in hand with all other countries to sustain enduring peace and build a more prosperous world.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>各位代表！</seg></tuv>
+<tuv xml:lang="en-US"><seg>Fellow Deputies,</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>时代赋予中国发展兴盛的历史机遇。</seg></tuv>
+<tuv xml:lang="en-US"><seg>This is an era that has given to China a historic opportunity for development and prosperity. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>让我们紧密团结在以习近平同志为总书记的党中央周围，高举中国特色社会主义伟大旗帜，凝神聚力，开拓创新，努力完成今年经济社会发展目标任务，为实现“两个一百年”奋斗目标、建成富强民主文明和谐的社会主义现代化国家、实现中华民族伟大复兴的中国梦作出新的更大贡献！</seg></tuv>
+<tuv xml:lang="en-US"><seg>Let us rally closely around the Party Central Committee with Comrade Xi Jinping as General Secretary, hold high the great banner of socialism with Chinese characteristics, and work together to break new ground. Let us endeavor to accomplish this year's objectives and tasks for economic and social development. By doing so, we will make new and greater contributions toward achieving the Two Centenary Goals and realizing the Chinese Dream of the great rejuvenation of the Chinese nation.</seg></tuv>
+</tu>
+</body>
+</tmx>
